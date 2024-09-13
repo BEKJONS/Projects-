@@ -1,0 +1,2302 @@
+Metrics at 2024-09-09T18:51:34+05:00 - CPU: 65.00%, Memory: 3.65%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:51:44+05:00 - CPU: 65.00%, Memory: 3.84%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:51:54+05:00 - CPU: 65.00%, Memory: 3.85%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:52:04+05:00 - CPU: 65.00%, Memory: 3.86%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:52:14+05:00 - CPU: 65.00%, Memory: 3.86%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:52:24+05:00 - CPU: 65.00%, Memory: 3.87%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:52:34+05:00 - CPU: 65.00%, Memory: 3.88%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:52:44+05:00 - CPU: 65.00%, Memory: 3.88%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:52:54+05:00 - CPU: 65.00%, Memory: 3.89%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:53:04+05:00 - CPU: 65.00%, Memory: 3.90%, Disk I/O: 50.00 MB/s
+Metrics at 2024-09-09T18:54:38+05:00 - CPU: 65.00%, Memory: 3.64%, Disk I/O: 50.00 MB/s
+ALERT: CPU Usage exceeded threshold with value: 65.00
+Metrics at 2024-09-09T18:54:43+05:00 - CPU: 65.00%, Memory: 3.84%, Disk I/O: 50.00 MB/s
+ALERT: CPU Usage exceeded threshold with value: 65.00
+Metrics at 2024-09-09T18:54:48+05:00 - CPU: 65.00%, Memory: 3.85%, Disk I/O: 50.00 MB/s
+ALERT: CPU Usage exceeded threshold with value: 65.00
+Metrics at 2024-09-09T18:55:11+05:00 - CPU: 65.00%, Memory: 3.66%, Disk I/O: 50.00 MB/s
+ALERT: CPU Usage exceeded threshold with value: 65.00
+ALERT: Memory Usage exceeded threshold with value: 3.66
+ALERT: Disk I/O exceeded threshold with value: 50.00
+Metrics at 2024-09-09T18:55:16+05:00 - CPU: 65.00%, Memory: 3.87%, Disk I/O: 50.00 MB/s
+ALERT: CPU Usage exceeded threshold with value: 65.00
+ALERT: Memory Usage exceeded threshold with value: 3.87
+ALERT: Disk I/O exceeded threshold with value: 50.00
+Metrics at 2024-09-09T18:55:21+05:00 - CPU: 65.00%, Memory: 3.89%, Disk I/O: 50.00 MB/s
+ALERT: CPU Usage exceeded threshold with value: 65.00
+ALERT: Memory Usage exceeded threshold with value: 3.89
+ALERT: Disk I/O exceeded threshold with value: 50.00
+Metrics at 2024-09-09T18:55:26+05:00 - CPU: 65.00%, Memory: 3.91%, Disk I/O: 50.00 MB/s
+ALERT: CPU Usage exceeded threshold with value: 65.00
+ALERT: Memory Usage exceeded threshold with value: 3.91
+ALERT: Disk I/O exceeded threshold with value: 50.00
+Metrics at 2024-09-09T18:55:31+05:00 - CPU: 65.00%, Memory: 3.93%, Disk I/O: 50.00 MB/s
+ALERT: CPU Usage exceeded threshold with value: 65.00
+ALERT: Memory Usage exceeded threshold with value: 3.93
+ALERT: Disk I/O exceeded threshold with value: 50.00
+Metrics at 2024-09-09T19:07:01+05:00 - CPU: 0.00%, Memory: 4.14%, Disk I/O: 17102.27 MB/s
+ALERT: Memory Usage exceeded threshold with value: 4.14
+ALERT: Disk I/O exceeded threshold with value: 17102.27
+Metrics at 2024-09-09T19:07:06+05:00 - CPU: 0.98%, Memory: 4.93%, Disk I/O: 17129.47 MB/s
+ALERT: Memory Usage exceeded threshold with value: 4.93
+ALERT: Disk I/O exceeded threshold with value: 17129.47
+Metrics at 2024-09-09T19:07:19+05:00 - CPU: 0.00%, Memory: 4.14%, Disk I/O: 17131.58 MB/s
+ALERT: Disk I/O exceeded threshold with value: 17131.58
+Metrics at 2024-09-09T19:07:24+05:00 - CPU: 5.03%, Memory: 4.93%, Disk I/O: 17133.55 MB/s
+ALERT: Disk I/O exceeded threshold with value: 17133.55
+Metrics at 2024-09-09T19:07:29+05:00 - CPU: 1.09%, Memory: 5.66%, Disk I/O: 17159.72 MB/s
+ALERT: Disk I/O exceeded threshold with value: 17159.72
+Metrics at 2024-09-09T19:07:34+05:00 - CPU: 1.70%, Memory: 6.37%, Disk I/O: 17186.76 MB/s
+ALERT: Disk I/O exceeded threshold with value: 17186.76
+Metrics at 2024-09-09T19:07:39+05:00 - CPU: 2.33%, Memory: 7.09%, Disk I/O: 17203.59 MB/s
+ALERT: Disk I/O exceeded threshold with value: 17203.59
+Metrics at 2024-09-09T19:07:44+05:00 - CPU: 2.49%, Memory: 7.81%, Disk I/O: 17204.91 MB/s
+ALERT: Disk I/O exceeded threshold with value: 17204.91
+Metrics at 2024-09-09T19:07:47+05:00 - CPU: 0.00%, Memory: 4.01%, Disk I/O: 17230.75 MB/s
+Metrics at 2024-09-09T19:07:52+05:00 - CPU: 5.30%, Memory: 4.77%, Disk I/O: 17247.25 MB/s
+Metrics at 2024-09-09T19:07:57+05:00 - CPU: 3.18%, Memory: 5.46%, Disk I/O: 17248.14 MB/s
+Metrics at 2024-09-09T19:08:02+05:00 - CPU: 2.06%, Memory: 6.15%, Disk I/O: 17248.98 MB/s
+Metrics at 2024-09-09T19:08:07+05:00 - CPU: 2.06%, Memory: 6.84%, Disk I/O: 17264.47 MB/s
+Metrics at 2024-09-09T19:08:12+05:00 - CPU: 3.54%, Memory: 7.53%, Disk I/O: 17265.45 MB/s
+Metrics at 2024-09-09T19:08:17+05:00 - CPU: 2.96%, Memory: 8.22%, Disk I/O: 17265.87 MB/s
+Metrics at 2024-09-09T19:08:22+05:00 - CPU: 1.32%, Memory: 8.90%, Disk I/O: 17277.93 MB/s
+Metrics at 2024-09-09T19:08:27+05:00 - CPU: 5.57%, Memory: 9.59%, Disk I/O: 17278.64 MB/s
+Metrics at 2024-09-09T19:08:32+05:00 - CPU: 0.88%, Memory: 10.28%, Disk I/O: 17297.79 MB/s
+Metrics at 2024-09-09T19:08:37+05:00 - CPU: 3.88%, Memory: 10.97%, Disk I/O: 17324.00 MB/s
+Metrics at 2024-09-09T19:08:42+05:00 - CPU: 3.38%, Memory: 11.65%, Disk I/O: 17324.71 MB/s
+Metrics at 2024-09-09T19:08:47+05:00 - CPU: 1.82%, Memory: 12.34%, Disk I/O: 17325.50 MB/s
+Metrics at 2024-09-09T19:08:52+05:00 - CPU: 2.27%, Memory: 13.03%, Disk I/O: 17326.94 MB/s
+Metrics at 2024-09-09T19:08:57+05:00 - CPU: 1.65%, Memory: 13.72%, Disk I/O: 17329.75 MB/s
+Metrics at 2024-09-09T19:09:02+05:00 - CPU: 1.49%, Memory: 14.40%, Disk I/O: 17331.28 MB/s
+Metrics at 2024-09-09T19:09:08+05:00 - CPU: 2.54%, Memory: 15.09%, Disk I/O: 17341.46 MB/s
+Metrics at 2024-09-09T19:09:13+05:00 - CPU: 1.54%, Memory: 15.78%, Disk I/O: 17343.50 MB/s
+Metrics at 2024-09-09T19:09:18+05:00 - CPU: 1.21%, Memory: 16.47%, Disk I/O: 17344.75 MB/s
+Metrics at 2024-09-09T19:09:23+05:00 - CPU: 1.87%, Memory: 17.15%, Disk I/O: 17345.59 MB/s
+Metrics at 2024-09-09T19:09:28+05:00 - CPU: 3.64%, Memory: 17.84%, Disk I/O: 17354.03 MB/s
+Metrics at 2024-09-09T19:09:33+05:00 - CPU: 2.04%, Memory: 18.53%, Disk I/O: 17355.56 MB/s
+Metrics at 2024-09-09T19:09:38+05:00 - CPU: 2.87%, Memory: 19.22%, Disk I/O: 17358.25 MB/s
+Metrics at 2024-09-09T19:09:43+05:00 - CPU: 4.89%, Memory: 19.90%, Disk I/O: 17367.38 MB/s
+Metrics at 2024-09-09T19:09:48+05:00 - CPU: 3.60%, Memory: 20.59%, Disk I/O: 17369.16 MB/s
+Metrics at 2024-09-09T19:09:53+05:00 - CPU: 4.05%, Memory: 21.28%, Disk I/O: 17369.54 MB/s
+Metrics at 2024-09-09T19:09:58+05:00 - CPU: 2.14%, Memory: 21.97%, Disk I/O: 17372.17 MB/s
+Metrics at 2024-09-09T19:10:03+05:00 - CPU: 1.74%, Memory: 22.66%, Disk I/O: 17378.59 MB/s
+Metrics at 2024-09-09T19:10:08+05:00 - CPU: 2.13%, Memory: 23.35%, Disk I/O: 17379.13 MB/s
+Metrics at 2024-09-09T19:10:13+05:00 - CPU: 2.90%, Memory: 24.04%, Disk I/O: 17380.43 MB/s
+Metrics at 2024-09-09T19:10:18+05:00 - CPU: 4.30%, Memory: 24.72%, Disk I/O: 17383.21 MB/s
+Metrics at 2024-09-09T19:10:23+05:00 - CPU: 1.63%, Memory: 25.41%, Disk I/O: 17384.16 MB/s
+Metrics at 2024-09-09T19:10:28+05:00 - CPU: 1.92%, Memory: 26.10%, Disk I/O: 17384.94 MB/s
+Metrics at 2024-09-09T19:10:33+05:00 - CPU: 4.16%, Memory: 26.79%, Disk I/O: 17385.96 MB/s
+Metrics at 2024-09-09T19:10:38+05:00 - CPU: 3.32%, Memory: 27.48%, Disk I/O: 17395.36 MB/s
+Metrics at 2024-09-09T19:10:43+05:00 - CPU: 4.75%, Memory: 28.17%, Disk I/O: 17396.09 MB/s
+Metrics at 2024-09-09T19:10:48+05:00 - CPU: 4.47%, Memory: 28.86%, Disk I/O: 17397.71 MB/s
+Metrics at 2024-09-09T19:10:53+05:00 - CPU: 1.42%, Memory: 29.54%, Disk I/O: 17399.31 MB/s
+Metrics at 2024-09-09T19:10:58+05:00 - CPU: 1.73%, Memory: 30.23%, Disk I/O: 17401.24 MB/s
+Metrics at 2024-09-09T19:11:03+05:00 - CPU: 2.78%, Memory: 30.92%, Disk I/O: 17401.89 MB/s
+Metrics at 2024-09-09T19:11:08+05:00 - CPU: 5.13%, Memory: 31.61%, Disk I/O: 17423.58 MB/s
+Metrics at 2024-09-09T19:11:13+05:00 - CPU: 2.32%, Memory: 32.30%, Disk I/O: 17427.05 MB/s
+Metrics at 2024-09-09T19:11:18+05:00 - CPU: 3.65%, Memory: 32.98%, Disk I/O: 17436.45 MB/s
+Metrics at 2024-09-09T19:11:23+05:00 - CPU: 4.18%, Memory: 33.68%, Disk I/O: 17445.75 MB/s
+Metrics at 2024-09-09T19:11:28+05:00 - CPU: 3.13%, Memory: 34.36%, Disk I/O: 17446.75 MB/s
+Metrics at 2024-09-09T19:11:33+05:00 - CPU: 3.55%, Memory: 35.05%, Disk I/O: 17448.20 MB/s
+Metrics at 2024-09-09T19:11:38+05:00 - CPU: 3.24%, Memory: 35.74%, Disk I/O: 17458.61 MB/s
+Metrics at 2024-09-09T19:11:43+05:00 - CPU: 2.65%, Memory: 36.43%, Disk I/O: 17461.71 MB/s
+Metrics at 2024-09-09T19:11:48+05:00 - CPU: 1.40%, Memory: 37.12%, Disk I/O: 17464.92 MB/s
+Metrics at 2024-09-09T19:11:53+05:00 - CPU: 3.73%, Memory: 37.81%, Disk I/O: 17471.29 MB/s
+Metrics at 2024-09-09T19:11:58+05:00 - CPU: 2.04%, Memory: 38.49%, Disk I/O: 17474.85 MB/s
+Metrics at 2024-09-09T19:12:03+05:00 - CPU: 2.34%, Memory: 39.18%, Disk I/O: 17475.97 MB/s
+Metrics at 2024-09-09T19:12:08+05:00 - CPU: 1.83%, Memory: 39.87%, Disk I/O: 17476.59 MB/s
+Metrics at 2024-09-09T19:12:13+05:00 - CPU: 1.53%, Memory: 40.56%, Disk I/O: 17477.07 MB/s
+Metrics at 2024-09-09T19:12:18+05:00 - CPU: 1.05%, Memory: 41.25%, Disk I/O: 17477.78 MB/s
+Metrics at 2024-09-09T19:12:23+05:00 - CPU: 2.09%, Memory: 41.94%, Disk I/O: 17479.37 MB/s
+Metrics at 2024-09-09T19:12:28+05:00 - CPU: 1.09%, Memory: 42.63%, Disk I/O: 17479.98 MB/s
+Metrics at 2024-09-09T19:12:33+05:00 - CPU: 1.58%, Memory: 43.32%, Disk I/O: 17481.33 MB/s
+Metrics at 2024-09-09T19:12:38+05:00 - CPU: 1.83%, Memory: 44.01%, Disk I/O: 17489.94 MB/s
+Metrics at 2024-09-09T19:12:43+05:00 - CPU: 1.62%, Memory: 44.70%, Disk I/O: 17493.02 MB/s
+Metrics at 2024-09-09T19:12:48+05:00 - CPU: 1.08%, Memory: 45.38%, Disk I/O: 17494.29 MB/s
+Metrics at 2024-09-09T19:12:53+05:00 - CPU: 2.17%, Memory: 46.07%, Disk I/O: 17500.04 MB/s
+Metrics at 2024-09-09T19:12:58+05:00 - CPU: 1.39%, Memory: 46.75%, Disk I/O: 17502.39 MB/s
+Metrics at 2024-09-09T19:13:03+05:00 - CPU: 1.39%, Memory: 47.44%, Disk I/O: 17503.30 MB/s
+Metrics at 2024-09-09T19:13:08+05:00 - CPU: 2.01%, Memory: 29.94%, Disk I/O: 17504.58 MB/s
+Metrics at 2024-09-09T19:13:13+05:00 - CPU: 1.23%, Memory: 30.37%, Disk I/O: 17505.07 MB/s
+Metrics at 2024-09-09T19:13:18+05:00 - CPU: 1.28%, Memory: 30.80%, Disk I/O: 17505.71 MB/s
+Metrics at 2024-09-09T19:13:23+05:00 - CPU: 1.83%, Memory: 31.23%, Disk I/O: 17506.70 MB/s
+Metrics at 2024-09-09T19:13:28+05:00 - CPU: 1.47%, Memory: 31.65%, Disk I/O: 17516.63 MB/s
+Metrics at 2024-09-09T19:13:33+05:00 - CPU: 1.13%, Memory: 32.08%, Disk I/O: 17519.28 MB/s
+Metrics at 2024-09-09T19:13:38+05:00 - CPU: 2.26%, Memory: 2.38%, Disk I/O: 17520.74 MB/s
+Metrics at 2024-09-09T19:13:43+05:00 - CPU: 1.13%, Memory: 2.80%, Disk I/O: 17523.71 MB/s
+Metrics at 2024-09-09T19:13:48+05:00 - CPU: 0.80%, Memory: 3.21%, Disk I/O: 17524.22 MB/s
+Metrics at 2024-09-09T19:13:53+05:00 - CPU: 2.10%, Memory: 3.63%, Disk I/O: 17525.09 MB/s
+Metrics at 2024-09-09T19:13:58+05:00 - CPU: 1.88%, Memory: 4.04%, Disk I/O: 17527.15 MB/s
+Metrics at 2024-09-09T19:14:03+05:00 - CPU: 1.30%, Memory: 4.45%, Disk I/O: 17529.22 MB/s
+Metrics at 2024-09-09T19:14:08+05:00 - CPU: 2.15%, Memory: 4.87%, Disk I/O: 17536.19 MB/s
+Metrics at 2024-09-09T19:14:13+05:00 - CPU: 1.15%, Memory: 5.28%, Disk I/O: 17537.42 MB/s
+Metrics at 2024-09-09T19:14:18+05:00 - CPU: 1.59%, Memory: 5.70%, Disk I/O: 17538.35 MB/s
+Metrics at 2024-09-09T19:14:23+05:00 - CPU: 1.74%, Memory: 6.11%, Disk I/O: 17540.63 MB/s
+Metrics at 2024-09-09T19:14:28+05:00 - CPU: 1.44%, Memory: 6.53%, Disk I/O: 17541.73 MB/s
+Metrics at 2024-09-09T19:14:33+05:00 - CPU: 0.93%, Memory: 6.94%, Disk I/O: 17542.49 MB/s
+Metrics at 2024-09-09T19:14:38+05:00 - CPU: 2.17%, Memory: 7.36%, Disk I/O: 17543.20 MB/s
+Metrics at 2024-09-09T19:14:43+05:00 - CPU: 1.15%, Memory: 7.78%, Disk I/O: 17546.06 MB/s
+Metrics at 2024-09-09T19:14:48+05:00 - CPU: 0.85%, Memory: 8.19%, Disk I/O: 17546.87 MB/s
+Metrics at 2024-09-09T19:14:53+05:00 - CPU: 1.67%, Memory: 8.61%, Disk I/O: 17552.87 MB/s
+Metrics at 2024-09-09T19:14:58+05:00 - CPU: 1.43%, Memory: 9.03%, Disk I/O: 17554.87 MB/s
+Metrics at 2024-09-09T19:15:03+05:00 - CPU: 1.18%, Memory: 9.45%, Disk I/O: 17556.24 MB/s
+Metrics at 2024-09-09T19:15:08+05:00 - CPU: 1.90%, Memory: 9.86%, Disk I/O: 17557.51 MB/s
+Metrics at 2024-09-09T19:15:13+05:00 - CPU: 1.18%, Memory: 10.28%, Disk I/O: 17558.92 MB/s
+Metrics at 2024-09-09T19:15:18+05:00 - CPU: 1.21%, Memory: 10.69%, Disk I/O: 17560.03 MB/s
+Metrics at 2024-09-09T19:15:23+05:00 - CPU: 2.02%, Memory: 11.11%, Disk I/O: 17561.23 MB/s
+Metrics at 2024-09-09T19:15:28+05:00 - CPU: 1.13%, Memory: 11.53%, Disk I/O: 17562.70 MB/s
+Metrics at 2024-09-09T19:15:33+05:00 - CPU: 1.44%, Memory: 2.62%, Disk I/O: 17563.29 MB/s
+Metrics at 2024-09-09T19:15:38+05:00 - CPU: 1.60%, Memory: 2.63%, Disk I/O: 17572.03 MB/s
+Metrics at 2024-09-09T19:15:43+05:00 - CPU: 1.58%, Memory: 3.04%, Disk I/O: 17574.40 MB/s
+Metrics at 2024-09-09T19:15:48+05:00 - CPU: 0.86%, Memory: 3.45%, Disk I/O: 17574.72 MB/s
+Metrics at 2024-09-09T19:15:53+05:00 - CPU: 2.48%, Memory: 3.87%, Disk I/O: 17581.13 MB/s
+Metrics at 2024-09-09T19:15:58+05:00 - CPU: 1.03%, Memory: 4.28%, Disk I/O: 17582.87 MB/s
+Metrics at 2024-09-09T19:16:03+05:00 - CPU: 1.50%, Memory: 4.70%, Disk I/O: 17585.49 MB/s
+Metrics at 2024-09-09T19:16:08+05:00 - CPU: 1.74%, Memory: 5.11%, Disk I/O: 17587.23 MB/s
+Metrics at 2024-09-09T19:16:13+05:00 - CPU: 1.32%, Memory: 5.53%, Disk I/O: 17593.35 MB/s
+Metrics at 2024-09-09T19:16:18+05:00 - CPU: 1.13%, Memory: 5.95%, Disk I/O: 17594.57 MB/s
+Metrics at 2024-09-09T19:16:23+05:00 - CPU: 1.60%, Memory: 6.36%, Disk I/O: 17595.18 MB/s
+Metrics at 2024-09-09T19:16:28+05:00 - CPU: 2.59%, Memory: 6.77%, Disk I/O: 17605.54 MB/s
+Metrics at 2024-09-09T19:16:33+05:00 - CPU: 2.32%, Memory: 7.19%, Disk I/O: 17609.91 MB/s
+Metrics at 2024-09-09T19:16:38+05:00 - CPU: 3.57%, Memory: 7.60%, Disk I/O: 17618.10 MB/s
+Metrics at 2024-09-09T19:16:43+05:00 - CPU: 2.35%, Memory: 8.01%, Disk I/O: 17627.91 MB/s
+Metrics at 2024-09-09T19:16:48+05:00 - CPU: 2.41%, Memory: 8.42%, Disk I/O: 17631.73 MB/s
+Metrics at 2024-09-09T19:16:53+05:00 - CPU: 3.78%, Memory: 8.84%, Disk I/O: 17633.46 MB/s
+Metrics at 2024-09-09T19:16:58+05:00 - CPU: 2.86%, Memory: 9.25%, Disk I/O: 17640.62 MB/s
+Metrics at 2024-09-09T19:17:03+05:00 - CPU: 2.51%, Memory: 9.66%, Disk I/O: 17642.12 MB/s
+Metrics at 2024-09-09T19:17:08+05:00 - CPU: 2.07%, Memory: 10.08%, Disk I/O: 17649.26 MB/s
+Metrics at 2024-09-09T19:17:13+05:00 - CPU: 1.93%, Memory: 10.49%, Disk I/O: 17650.42 MB/s
+Metrics at 2024-09-09T19:17:18+05:00 - CPU: 1.43%, Memory: 10.90%, Disk I/O: 17651.39 MB/s
+Metrics at 2024-09-09T19:17:23+05:00 - CPU: 1.93%, Memory: 11.32%, Disk I/O: 17658.22 MB/s
+Metrics at 2024-09-09T19:17:28+05:00 - CPU: 2.51%, Memory: 11.73%, Disk I/O: 17659.03 MB/s
+Metrics at 2024-09-09T19:17:33+05:00 - CPU: 3.23%, Memory: 2.19%, Disk I/O: 17660.50 MB/s
+Metrics at 2024-09-09T19:17:38+05:00 - CPU: 3.42%, Memory: 2.63%, Disk I/O: 17667.04 MB/s
+Metrics at 2024-09-09T19:17:43+05:00 - CPU: 2.47%, Memory: 3.04%, Disk I/O: 17668.09 MB/s
+Metrics at 2024-09-09T19:17:48+05:00 - CPU: 1.35%, Memory: 3.45%, Disk I/O: 17670.68 MB/s
+Metrics at 2024-09-09T19:17:53+05:00 - CPU: 2.52%, Memory: 3.86%, Disk I/O: 17676.41 MB/s
+Metrics at 2024-09-09T19:17:58+05:00 - CPU: 1.58%, Memory: 4.28%, Disk I/O: 17678.32 MB/s
+Metrics at 2024-09-09T19:18:03+05:00 - CPU: 1.42%, Memory: 4.69%, Disk I/O: 17680.52 MB/s
+Metrics at 2024-09-09T19:18:08+05:00 - CPU: 2.26%, Memory: 5.11%, Disk I/O: 17683.20 MB/s
+Metrics at 2024-09-09T19:18:13+05:00 - CPU: 1.44%, Memory: 5.52%, Disk I/O: 17684.82 MB/s
+Metrics at 2024-09-09T19:18:18+05:00 - CPU: 1.89%, Memory: 5.93%, Disk I/O: 17685.44 MB/s
+Metrics at 2024-09-09T19:18:23+05:00 - CPU: 2.81%, Memory: 6.34%, Disk I/O: 17687.00 MB/s
+Metrics at 2024-09-09T19:18:28+05:00 - CPU: 2.29%, Memory: 6.75%, Disk I/O: 17688.33 MB/s
+Metrics at 2024-09-09T19:18:33+05:00 - CPU: 1.11%, Memory: 7.17%, Disk I/O: 17689.43 MB/s
+Metrics at 2024-09-09T19:18:38+05:00 - CPU: 2.50%, Memory: 7.58%, Disk I/O: 17696.19 MB/s
+Metrics at 2024-09-09T19:18:43+05:00 - CPU: 1.27%, Memory: 7.99%, Disk I/O: 17697.69 MB/s
+Metrics at 2024-09-09T19:18:48+05:00 - CPU: 1.96%, Memory: 8.41%, Disk I/O: 17700.64 MB/s
+Metrics at 2024-09-09T19:18:53+05:00 - CPU: 3.56%, Memory: 8.82%, Disk I/O: 17701.28 MB/s
+Metrics at 2024-09-09T19:45:30+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 20171.22 MB/s
+Metrics at 2024-09-09T19:45:35+05:00 - CPU: 3.87%, Memory: 11.76%, Disk I/O: 20182.70 MB/s
+Metrics at 2024-09-09T19:45:44+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 20204.56 MB/s
+Metrics at 2024-09-09T19:45:49+05:00 - CPU: 3.49%, Memory: 11.78%, Disk I/O: 20232.11 MB/s
+ALERT: CPU Usage exceeded threshold with value: 3.49
+Metrics at 2024-09-09T19:46:15+05:00 - CPU: 2.74%, Memory: 23.25%, Disk I/O: 20276.56 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.74
+Metrics at 2024-09-09T19:46:21+05:00 - CPU: 2.76%, Memory: 26.06%, Disk I/O: 20286.59 MB/s
+Metrics at 2024-09-09T19:54:38+05:00 - CPU: 0.00%, Memory: 11.02%, Disk I/O: 20803.15 MB/s
+Metrics at 2024-09-09T19:54:43+05:00 - CPU: 4.32%, Memory: 11.76%, Disk I/O: 20823.27 MB/s
+ALERT: CPU Usage exceeded threshold with value: 4.32
+Metrics at 2024-09-09T19:54:49+05:00 - CPU: 3.24%, Memory: 27.39%, Disk I/O: 20831.55 MB/s
+ALERT: CPU Usage exceeded threshold with value: 3.24
+Metrics at 2024-09-09T19:54:55+05:00 - CPU: 6.61%, Memory: 22.10%, Disk I/O: 20834.22 MB/s
+ALERT: CPU Usage exceeded threshold with value: 6.61
+Metrics at 2024-09-09T19:55:00+05:00 - CPU: 4.29%, Memory: 23.79%, Disk I/O: 20868.88 MB/s
+ALERT: CPU Usage exceeded threshold with value: 4.29
+Metrics at 2024-09-09T19:55:40+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 20903.95 MB/s
+Metrics at 2024-09-09T19:55:45+05:00 - CPU: 3.91%, Memory: 11.77%, Disk I/O: 20906.76 MB/s
+ALERT: CPU Usage exceeded threshold with value: 3.91
+Metrics at 2024-09-09T19:55:50+05:00 - CPU: 4.51%, Memory: 20.64%, Disk I/O: 20908.31 MB/s
+ALERT: CPU Usage exceeded threshold with value: 4.51
+Metrics at 2024-09-09T19:55:56+05:00 - CPU: 1.75%, Memory: 21.87%, Disk I/O: 20910.31 MB/s
+ALERT: CPU Usage exceeded threshold with value: 1.75
+Metrics at 2024-09-09T19:56:02+05:00 - CPU: 1.70%, Memory: 23.58%, Disk I/O: 20935.78 MB/s
+ALERT: CPU Usage exceeded threshold with value: 1.70
+Metrics at 2024-09-09T19:56:07+05:00 - CPU: 2.16%, Memory: 25.17%, Disk I/O: 20946.08 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.16
+Metrics at 2024-09-09T19:56:19+05:00 - CPU: 0.00%, Memory: 10.61%, Disk I/O: 20947.83 MB/s
+Metrics at 2024-09-09T19:56:24+05:00 - CPU: 2.85%, Memory: 11.32%, Disk I/O: 20950.12 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.85
+Metrics at 2024-09-09T19:56:30+05:00 - CPU: 4.13%, Memory: 21.11%, Disk I/O: 20968.92 MB/s
+ALERT: CPU Usage exceeded threshold with value: 4.13
+Metrics at 2024-09-09T19:56:35+05:00 - CPU: 2.79%, Memory: 22.77%, Disk I/O: 20975.08 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.79
+Metrics at 2024-09-09T19:56:41+05:00 - CPU: 5.61%, Memory: 24.54%, Disk I/O: 20976.28 MB/s
+ALERT: CPU Usage exceeded threshold with value: 5.61
+Metrics at 2024-09-09T19:56:47+05:00 - CPU: 5.08%, Memory: 26.21%, Disk I/O: 20977.43 MB/s
+ALERT: CPU Usage exceeded threshold with value: 5.08
+Metrics at 2024-09-09T19:56:52+05:00 - CPU: 4.20%, Memory: 19.60%, Disk I/O: 20986.35 MB/s
+ALERT: CPU Usage exceeded threshold with value: 4.20
+Metrics at 2024-09-09T19:56:58+05:00 - CPU: 5.08%, Memory: 21.29%, Disk I/O: 20987.73 MB/s
+ALERT: CPU Usage exceeded threshold with value: 5.08
+Metrics at 2024-09-09T19:57:01+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 20988.52 MB/s
+Metrics at 2024-09-09T19:57:06+05:00 - CPU: 2.50%, Memory: 11.78%, Disk I/O: 21004.98 MB/s
+Metrics at 2024-09-09T19:57:11+05:00 - CPU: 1.72%, Memory: 12.50%, Disk I/O: 21012.54 MB/s
+Metrics at 2024-09-09T19:57:16+05:00 - CPU: 1.57%, Memory: 13.22%, Disk I/O: 21013.53 MB/sb
+Metrics at 2024-09-09T19:57:21+05:00 - CPU: 1.58%, Memory: 13.94%, Disk I/O: 21013.90 MB/s
+Metrics at 2024-09-09T19:57:26+05:00 - CPU: 1.74%, Memory: 14.66%, Disk I/O: 21017.08 MB/s
+Metrics at 2024-09-09T19:57:31+05:00 - CPU: 1.61%, Memory: 15.37%, Disk I/O: 21017.60 MB/s
+Metrics at 2024-09-09T19:57:36+05:00 - CPU: 4.07%, Memory: 16.09%, Disk I/O: 21018.14 MB/s
+Metrics at 2024-09-09T19:57:41+05:00 - CPU: 4.78%, Memory: 16.81%, Disk I/O: 21021.86 MB/s
+Metrics at 2024-09-09T19:57:46+05:00 - CPU: 2.68%, Memory: 17.53%, Disk I/O: 21037.68 MB/s
+Metrics at 2024-09-09T19:57:51+05:00 - CPU: 4.27%, Memory: 18.24%, Disk I/O: 21078.01 MB/s
+Metrics at 2024-09-09T19:57:56+05:00 - CPU: 2.11%, Memory: 18.95%, Disk I/O: 21078.98 MB/s
+Metrics at 2024-09-09T19:58:01+05:00 - CPU: 1.45%, Memory: 19.67%, Disk I/O: 21080.02 MB/s
+Metrics at 2024-09-09T19:58:06+05:00 - CPU: 2.01%, Memory: 20.39%, Disk I/O: 21080.94 MB/s
+Metrics at 2024-09-09T19:58:11+05:00 - CPU: 1.64%, Memory: 21.10%, Disk I/O: 21081.98 MB/s
+Metrics at 2024-09-09T19:58:16+05:00 - CPU: 5.14%, Memory: 21.82%, Disk I/O: 21083.24 MB/s
+Metrics at 2024-09-09T19:58:21+05:00 - CPU: 5.69%, Memory: 22.53%, Disk I/O: 21098.67 MB/s
+Metrics at 2024-09-09T19:58:26+05:00 - CPU: 4.29%, Memory: 23.25%, Disk I/O: 21135.39 MB/s
+Metrics at 2024-09-09T19:58:31+05:00 - CPU: 4.08%, Memory: 23.96%, Disk I/O: 21136.35 MB/s
+Metrics at 2024-09-09T19:58:36+05:00 - CPU: 2.06%, Memory: 24.68%, Disk I/O: 21137.01 MB/s
+Metrics at 2024-09-09T19:58:41+05:00 - CPU: 2.32%, Memory: 25.39%, Disk I/O: 21144.96 MB/s
+Metrics at 2024-09-09T19:58:46+05:00 - CPU: 1.76%, Memory: 26.10%, Disk I/O: 21145.00 MB/s
+Metrics at 2024-09-09T19:58:51+05:00 - CPU: 1.50%, Memory: 26.82%, Disk I/O: 21145.72 MB/s
+Metrics at 2024-09-09T19:58:56+05:00 - CPU: 3.10%, Memory: 27.53%, Disk I/O: 21146.38 MB/s
+Metrics at 2024-09-09T19:59:01+05:00 - CPU: 2.81%, Memory: 27.17%, Disk I/O: 21148.35 MB/s
+Metrics at 2024-09-09T19:59:06+05:00 - CPU: 2.30%, Memory: 27.86%, Disk I/O: 21148.71 MB/s
+Metrics at 2024-09-09T20:01:34+05:00 - CPU: 0.00%, Memory: 10.62%, Disk I/O: 21284.44 MB/s
+Metrics at 2024-09-09T20:01:39+05:00 - CPU: 1.72%, Memory: 11.33%, Disk I/O: 21285.74 MB/s
+Metrics at 2024-09-09T20:01:44+05:00 - CPU: 8.15%, Memory: 12.03%, Disk I/O: 21287.90 MB/s
+ALERT: CPU Usage exceeded threshold with value: 8.15
+Metrics at 2024-09-09T20:01:51+05:00 - CPU: 4.48%, Memory: 21.28%, Disk I/O: 21357.89 MB/s
+Metrics at 2024-09-09T20:01:56+05:00 - CPU: 2.65%, Memory: 21.23%, Disk I/O: 21359.61 MB/s
+Metrics at 2024-09-09T20:02:01+05:00 - CPU: 1.56%, Memory: 21.60%, Disk I/O: 21360.06 MB/s
+Metrics at 2024-09-09T20:02:06+05:00 - CPU: 1.88%, Memory: 21.97%, Disk I/O: 21360.66 MB/s
+Metrics at 2024-09-09T20:02:11+05:00 - CPU: 2.73%, Memory: 22.35%, Disk I/O: 21367.44 MB/s
+Metrics at 2024-09-09T20:02:16+05:00 - CPU: 1.19%, Memory: 22.72%, Disk I/O: 21368.47 MB/s
+Metrics at 2024-09-09T20:02:21+05:00 - CPU: 1.24%, Memory: 23.09%, Disk I/O: 21368.96 MB/s
+Metrics at 2024-09-09T20:02:26+05:00 - CPU: 4.87%, Memory: 23.46%, Disk I/O: 21370.59 MB/s
+Metrics at 2024-09-09T20:02:31+05:00 - CPU: 1.22%, Memory: 23.83%, Disk I/O: 21389.01 MB/s
+Metrics at 2024-09-09T20:02:36+05:00 - CPU: 1.91%, Memory: 24.20%, Disk I/O: 21414.54 MB/s
+Metrics at 2024-09-09T20:02:41+05:00 - CPU: 3.45%, Memory: 24.57%, Disk I/O: 21414.91 MB/s
+Metrics at 2024-09-09T20:02:46+05:00 - CPU: 2.61%, Memory: 24.94%, Disk I/O: 21415.53 MB/s
+Metrics at 2024-09-09T20:02:51+05:00 - CPU: 1.69%, Memory: 25.32%, Disk I/O: 21418.81 MB/s
+Metrics at 2024-09-09T20:02:56+05:00 - CPU: 1.28%, Memory: 25.69%, Disk I/O: 21421.32 MB/s
+Metrics at 2024-09-09T20:03:01+05:00 - CPU: 0.94%, Memory: 26.06%, Disk I/O: 21422.47 MB/s
+Metrics at 2024-09-09T20:03:06+05:00 - CPU: 2.08%, Memory: 26.43%, Disk I/O: 21430.31 MB/s
+Metrics at 2024-09-09T20:03:11+05:00 - CPU: 1.69%, Memory: 26.80%, Disk I/O: 21431.78 MB/s
+Metrics at 2024-09-09T20:03:16+05:00 - CPU: 1.47%, Memory: 27.17%, Disk I/O: 21432.88 MB/s
+Metrics at 2024-09-09T20:03:21+05:00 - CPU: 3.39%, Memory: 27.54%, Disk I/O: 21435.74 MB/s
+Metrics at 2024-09-09T20:03:26+05:00 - CPU: 1.29%, Memory: 27.91%, Disk I/O: 21448.04 MB/s
+Metrics at 2024-09-09T20:03:31+05:00 - CPU: 1.48%, Memory: 28.29%, Disk I/O: 21449.63 MB/s
+Metrics at 2024-09-09T20:03:36+05:00 - CPU: 2.46%, Memory: 28.66%, Disk I/O: 21451.44 MB/s
+Metrics at 2024-09-09T20:03:41+05:00 - CPU: 3.13%, Memory: 17.76%, Disk I/O: 21460.09 MB/s
+Metrics at 2024-09-09T20:03:46+05:00 - CPU: 3.30%, Memory: 18.13%, Disk I/O: 21461.41 MB/s
+Metrics at 2024-09-09T20:03:51+05:00 - CPU: 2.41%, Memory: 18.50%, Disk I/O: 21466.87 MB/s
+Metrics at 2024-09-09T20:03:56+05:00 - CPU: 3.54%, Memory: 18.87%, Disk I/O: 21472.33 MB/s
+Metrics at 2024-09-09T20:04:01+05:00 - CPU: 3.66%, Memory: 19.24%, Disk I/O: 21547.40 MB/s
+Metrics at 2024-09-09T20:04:06+05:00 - CPU: 2.62%, Memory: 19.61%, Disk I/O: 21553.31 MB/s
+Metrics at 2024-09-09T20:04:11+05:00 - CPU: 5.00%, Memory: 19.99%, Disk I/O: 21556.86 MB/s
+ALERT: CPU Usage exceeded threshold with value: 5.00
+Metrics at 2024-09-09T20:04:17+05:00 - CPU: 3.94%, Memory: 21.94%, Disk I/O: 21570.36 MB/s
+Metrics at 2024-09-09T20:04:22+05:00 - CPU: 3.17%, Memory: 22.31%, Disk I/O: 21572.98 MB/s
+Metrics at 2024-09-10T15:56:47+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 8158.51 MB/s
+Metrics at 2024-09-10T15:56:52+05:00 - CPU: 0.87%, Memory: 11.77%, Disk I/O: 8179.82 MB/s
+Metrics at 2024-09-10T15:56:57+05:00 - CPU: 1.27%, Memory: 12.48%, Disk I/O: 8186.45 MB/s
+Metrics at 2024-09-10T15:57:02+05:00 - CPU: 0.75%, Memory: 12.70%, Disk I/O: 8186.67 MB/s
+Metrics at 2024-09-10T15:57:07+05:00 - CPU: 4.28%, Memory: 13.39%, Disk I/O: 8189.69 MB/s
+Metrics at 2024-09-10T15:57:12+05:00 - CPU: 2.61%, Memory: 14.08%, Disk I/O: 8191.08 MB/s
+Metrics at 2024-09-10T15:57:17+05:00 - CPU: 4.87%, Memory: 14.76%, Disk I/O: 8207.08 MB/s
+Metrics at 2024-09-10T15:57:22+05:00 - CPU: 3.13%, Memory: 15.45%, Disk I/O: 8208.79 MB/s
+Metrics at 2024-09-10T15:57:27+05:00 - CPU: 0.65%, Memory: 16.13%, Disk I/O: 8209.88 MB/s
+Metrics at 2024-09-10T15:57:32+05:00 - CPU: 5.56%, Memory: 16.82%, Disk I/O: 8635.63 MB/s
+Metrics at 2024-09-10T15:58:34+05:00 - CPU: 100.00%, Memory: 11.04%, Disk I/O: 8699.01 MB/s
+Metrics at 2024-09-10T16:00:04+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 8833.26 MB/s
+Metrics at 2024-09-10T16:00:09+05:00 - CPU: 4.43%, Memory: 11.78%, Disk I/O: 8836.10 MB/s
+Metrics at 2024-09-10T16:00:14+05:00 - CPU: 3.28%, Memory: 12.51%, Disk I/O: 8845.04 MB/s
+Metrics at 2024-09-10T16:00:19+05:00 - CPU: 2.56%, Memory: 13.22%, Disk I/O: 8846.62 MB/s
+Metrics at 2024-09-10T16:00:24+05:00 - CPU: 3.43%, Memory: 13.95%, Disk I/O: 8849.91 MB/s
+Metrics at 2024-09-10T16:00:29+05:00 - CPU: 4.16%, Memory: 14.66%, Disk I/O: 8860.91 MB/s
+Metrics at 2024-09-10T16:00:34+05:00 - CPU: 1.99%, Memory: 15.37%, Disk I/O: 8865.97 MB/s
+Metrics at 2024-09-10T16:00:39+05:00 - CPU: 2.58%, Memory: 15.47%, Disk I/O: 8883.17 MB/s
+Metrics at 2024-09-10T16:00:44+05:00 - CPU: 1.74%, Memory: 16.16%, Disk I/O: 8885.32 MB/s
+Metrics at 2024-09-10T16:00:49+05:00 - CPU: 3.49%, Memory: 16.24%, Disk I/O: 8894.26 MB/s
+Metrics at 2024-09-10T16:00:54+05:00 - CPU: 3.03%, Memory: 16.89%, Disk I/O: 8895.52 MB/s
+Metrics at 2024-09-10T16:00:59+05:00 - CPU: 8.57%, Memory: 17.56%, Disk I/O: 8934.20 MB/s
+Metrics at 2024-09-10T16:03:27+05:00 - CPU: 0.00%, Memory: 11.02%, Disk I/O: 9136.63 MB/s
+Metrics at 2024-09-10T16:03:32+05:00 - CPU: 0.84%, Memory: 11.76%, Disk I/O: 9175.16 MB/s
+Metrics at 2024-09-10T16:03:37+05:00 - CPU: 1.68%, Memory: 12.48%, Disk I/O: 9181.10 MB/s
+Metrics at 2024-09-10T16:04:20+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 9212.86 MB/s
+Metrics at 2024-09-10T16:04:25+05:00 - CPU: 2.36%, Memory: 11.78%, Disk I/O: 9215.13 MB/s
+Metrics at 2024-09-10T16:04:30+05:00 - CPU: 1.64%, Memory: 12.49%, Disk I/O: 9232.00 MB/s
+Metrics at 2024-09-10T16:04:35+05:00 - CPU: 4.96%, Memory: 13.20%, Disk I/O: 9234.62 MB/s
+Metrics at 2024-09-10T16:04:40+05:00 - CPU: 15.63%, Memory: 13.92%, Disk I/O: 9545.33 MB/s
+Metrics at 2024-09-10T16:10:38+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 10691.49 MB/s
+Metrics at 2024-09-10T16:10:43+05:00 - CPU: 0.66%, Memory: 11.77%, Disk I/O: 10693.10 MB/s
+Metrics at 2024-09-10T16:10:49+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 10710.40 MB/s
+Metrics at 2024-09-10T16:10:54+05:00 - CPU: 0.75%, Memory: 11.78%, Disk I/O: 10713.44 MB/s
+Metrics at 2024-09-10T16:10:59+05:00 - CPU: 3.92%, Memory: 12.50%, Disk I/O: 10716.65 MB/s
+Metrics at 2024-09-10T16:14:54+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 10954.74 MB/s
+Metrics at 2024-09-10T16:14:59+05:00 - CPU: 2.37%, Memory: 11.77%, Disk I/O: 10964.93 MB/s
+Metrics at 2024-09-10T16:17:03+05:00 - CPU: 0.00%, Memory: 11.02%, Disk I/O: 11084.75 MB/s
+Metrics at 2024-09-10T16:17:08+05:00 - CPU: 0.61%, Memory: 11.76%, Disk I/O: 11106.52 MB/s
+Metrics at 2024-09-10T16:17:13+05:00 - CPU: 0.81%, Memory: 12.49%, Disk I/O: 11133.62 MB/s
+Metrics at 2024-09-10T16:17:18+05:00 - CPU: 2.88%, Memory: 13.20%, Disk I/O: 11134.40 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.88
+Metrics at 2024-09-10T16:17:24+05:00 - CPU: 1.83%, Memory: 23.71%, Disk I/O: 11151.57 MB/s
+ALERT: CPU Usage exceeded threshold with value: 1.83
+Metrics at 2024-09-10T16:17:30+05:00 - CPU: 2.41%, Memory: 25.93%, Disk I/O: 11160.65 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.41
+Metrics at 2024-09-10T16:18:46+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 11224.15 MB/s
+Metrics at 2024-09-10T16:18:51+05:00 - CPU: 4.73%, Memory: 11.77%, Disk I/O: 11227.45 MB/s
+ALERT: CPU Usage exceeded threshold with value: 4.73
+Metrics at 2024-09-10T16:18:56+05:00 - CPU: 4.35%, Memory: 17.29%, Disk I/O: 11230.55 MB/s
+ALERT: CPU Usage exceeded threshold with value: 4.35
+Metrics at 2024-09-10T16:19:02+05:00 - CPU: 7.92%, Memory: 19.14%, Disk I/O: 11242.61 MB/s
+ALERT: CPU Usage exceeded threshold with value: 7.92
+Metrics at 2024-09-10T16:19:08+05:00 - CPU: 4.69%, Memory: 20.78%, Disk I/O: 11243.74 MB/s
+ALERT: CPU Usage exceeded threshold with value: 4.69
+Metrics at 2024-09-10T16:19:13+05:00 - CPU: 5.18%, Memory: 22.39%, Disk I/O: 11255.04 MB/s
+ALERT: CPU Usage exceeded threshold with value: 5.18
+Metrics at 2024-09-10T16:19:35+05:00 - CPU: 0.00%, Memory: 11.05%, Disk I/O: 11318.14 MB/s
+Metrics at 2024-09-10T16:19:40+05:00 - CPU: 0.89%, Memory: 11.79%, Disk I/O: 11320.81 MB/s
+Metrics at 2024-09-10T16:19:45+05:00 - CPU: 1.05%, Memory: 12.50%, Disk I/O: 11340.30 MB/s
+ALERT: CPU Usage exceeded threshold with value: 1.05
+Metrics at 2024-09-10T16:19:51+05:00 - CPU: 3.72%, Memory: 16.56%, Disk I/O: 11347.24 MB/s
+ALERT: CPU Usage exceeded threshold with value: 3.72
+Metrics at 2024-09-10T16:19:56+05:00 - CPU: 1.83%, Memory: 18.33%, Disk I/O: 11348.85 MB/s
+ALERT: CPU Usage exceeded threshold with value: 1.83
+Metrics at 2024-09-10T16:20:02+05:00 - CPU: 2.20%, Memory: 19.55%, Disk I/O: 11350.22 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.20
+Metrics at 2024-09-10T16:20:08+05:00 - CPU: 5.10%, Memory: 21.10%, Disk I/O: 11363.37 MB/s
+ALERT: CPU Usage exceeded threshold with value: 5.10
+Metrics at 2024-09-10T16:20:13+05:00 - CPU: 2.20%, Memory: 22.62%, Disk I/O: 11364.79 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.20
+Metrics at 2024-09-10T16:20:15+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 11382.71 MB/s
+Metrics at 2024-09-10T16:20:20+05:00 - CPU: 1.02%, Memory: 11.77%, Disk I/O: 11419.67 MB/s
+ALERT: CPU Usage exceeded threshold with value: 1.02
+Metrics at 2024-09-10T16:20:26+05:00 - CPU: 2.03%, Memory: 17.23%, Disk I/O: 11425.84 MB/s
+ALERT: CPU Usage exceeded threshold with value: 2.03
+Metrics at 2024-09-10T19:02:35+05:00 - CPU: 0.00%, Memory: 11.02%, Disk I/O: 20112.73 MB/s
+   main -> 36.194836
+   go -> 27.028880
+   chrome -> 13.599928
+   goland -> 9.448962
+   Xorg -> 2.242050
+Metrics at 2024-09-10T19:02:45+05:00 - CPU: 4.52%, Memory: 25.57%, Disk I/O: 20123.96 MB/s
+   goland -> 9.460551
+   chrome -> 9.102887
+   go -> 2.915126
+   Xorg -> 2.254864
+   gnome-shell -> 2.130368
+Metrics at 2024-09-10T19:02:55+05:00 - CPU: 1.55%, Memory: 17.25%, Disk I/O: 20125.46 MB/s
+   goland -> 9.464015
+   chrome -> 7.374594
+   Xorg -> 2.255226
+   gnome-shell -> 2.130327
+   chrome -> 1.726861
+Metrics at 2024-09-10T19:03:05+05:00 - CPU: 2.42%, Memory: 10.51%, Disk I/O: 20175.13 MB/s
+   goland -> 9.470723
+   chrome -> 5.902351
+   Xorg -> 2.258652
+   gnome-shell -> 2.129946
+   chrome -> 1.725793
+Metrics at 2024-09-10T19:03:15+05:00 - CPU: 2.84%, Memory: 27.33%, Disk I/O: 20176.53 MB/s
+   chrome -> 41.837864
+   goland -> 9.468889
+   Xorg -> 2.258671
+   gnome-shell -> 2.128545
+   chrome -> 1.726790
+Metrics at 2024-09-10T19:03:25+05:00 - CPU: 0.72%, Memory: 20.76%, Disk I/O: 20200.33 MB/s
+   chrome -> 16.506227
+   goland -> 9.466034
+   Xorg -> 2.256990
+   gnome-shell -> 2.126976
+   chrome -> 1.725981
+Metrics at 2024-09-10T19:03:35+05:00 - CPU: 3.82%, Memory: 15.32%, Disk I/O: 20243.61 MB/s
+   chrome -> 10.275526
+   goland -> 9.484198
+   Xorg -> 2.267955
+   gnome-shell -> 2.128378
+   chrome -> 1.724914
+Metrics at 2024-09-10T19:03:45+05:00 - CPU: 2.43%, Memory: 10.39%, Disk I/O: 20246.40 MB/s
+   goland -> 9.492988
+   chrome -> 8.033335
+   Xorg -> 2.270425
+   gnome-shell -> 2.128508
+   chrome -> 1.723937
+Metrics at 2024-09-10T19:03:55+05:00 - CPU: 3.57%, Memory: 27.63%, Disk I/O: 20261.54 MB/s
+   goland -> 9.508135
+   chrome -> 6.306864
+   Xorg -> 2.275940
+   gnome-shell -> 2.130162
+   chrome -> 1.722876
+Metrics at 2024-09-10T19:04:05+05:00 - CPU: 1.56%, Memory: 22.87%, Disk I/O: 20270.35 MB/s
+   goland -> 9.511538
+   chrome -> 5.191006
+   Xorg -> 2.277043
+   gnome-shell -> 2.129613
+   chrome -> 1.721816
+Metrics at 2024-09-10T19:04:16+05:00 - CPU: 2.38%, Memory: 20.82%, Disk I/O: 20273.82 MB/s
+   goland -> 9.517987
+   chrome -> 4.440266
+   Xorg -> 2.280682
+   gnome-shell -> 2.130418
+   chrome -> 1.720758
+Metrics at 2024-09-10T19:04:26+05:00 - CPU: 4.11%, Memory: 15.44%, Disk I/O: 20292.11 MB/s
+   chrome -> 26.984000
+   goland -> 9.525451
+   Xorg -> 2.284148
+   gnome-shell -> 2.131814
+   chrome -> 1.721839
+Metrics at 2024-09-10T19:04:36+05:00 - CPU: 1.81%, Memory: 10.20%, Disk I/O: 20318.51 MB/s
+   chrome -> 13.565019
+   goland -> 9.531461
+   Xorg -> 2.284568
+   gnome-shell -> 2.132617
+   chrome -> 1.720784
+Metrics at 2024-09-10T19:10:10+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 20695.46 MB/s
+   go -> 29.66
+   main -> 9.89
+   goland -> 9.59
+   chrome -> 4.72
+   Xorg -> 2.29
+Metrics at 2024-09-10T19:10:20+05:00 - CPU: 2.54%, Memory: 21.98%, Disk I/O: 20720.90 MB/s
+   goland -> 9.59
+   chrome -> 4.05
+   go -> 2.45
+   Xorg -> 2.29
+   gnome-shell -> 2.13
+Metrics at 2024-09-10T19:10:44+05:00 - CPU: 0.00%, Memory: 11.02%, Disk I/O: 20732.02 MB/s
+   main -> 35.14
+ALERT: CPU Usage exceeded threshold with value: 35.14
+   go -> 21.50
+ALERT: CPU Usage exceeded threshold with value: 21.50
+   goland -> 9.60
+ALERT: CPU Usage exceeded threshold with value: 9.60
+   chrome -> 3.07
+   Xorg -> 2.30
+Metrics at 2024-09-10T19:10:59+05:00 - CPU: 2.75%, Memory: 15.11%, Disk I/O: 20752.01 MB/s
+   chrome -> 93.09
+ALERT: CPU Usage exceeded threshold with value: 93.09
+   goland -> 9.60
+ALERT: CPU Usage exceeded threshold with value: 9.60
+   Xorg -> 2.30
+   gnome-shell -> 2.14
+   htop -> 1.99
+Metrics at 2024-09-10T19:11:10+05:00 - CPU: 3.95%, Memory: 16.12%, Disk I/O: 20806.34 MB/s
+   chrome -> 21.13
+ALERT: CPU Usage exceeded threshold with value: 21.13
+   goland -> 9.61
+ALERT: CPU Usage exceeded threshold with value: 9.61
+   Xorg -> 2.30
+   gnome-shell -> 2.15
+   htop -> 1.97
+Metrics at 2024-09-10T19:12:48+05:00 - CPU: 0.00%, Memory: 11.03%, Disk I/O: 20917.36 MB/s
+   go -> 29.13
+ALERT: CPU Usage of this program go is exceeded threshold with value: 29.13
+   goland -> 9.74
+ALERT: CPU Usage of this program goland is exceeded threshold with value: 9.74
+   chrome -> 9.56
+ALERT: CPU Usage of this program chrome is exceeded threshold with value: 9.56
+   main -> 9.32
+ALERT: CPU Usage of this program main is exceeded threshold with value: 9.32
+   Xorg -> 2.31
+Metrics at 2024-09-10T19:13:06+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 20979.59 MB/s
+   main -> 41.73
+ALERT: CPU Usage of the program main is exceeded threshold with value: 41.73
+   go -> 20.98
+ALERT: CPU Usage of the program go is exceeded threshold with value: 20.98
+   chrome -> 19.38
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 19.38
+   goland -> 9.75
+ALERT: CPU Usage of the program goland is exceeded threshold with value: 9.75
+   Xorg -> 2.32
+Metrics at 2024-09-10T19:13:18+05:00 - CPU: 1.97%, Memory: 15.79%, Disk I/O: 21008.05 MB/s
+   chrome -> 10.20
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 10.20
+   goland -> 9.75
+ALERT: CPU Usage of the program goland is exceeded threshold with value: 9.75
+   Xorg -> 2.32
+   gnome-shell -> 2.16
+   htop -> 1.94
+Metrics at 2024-09-10T19:13:30+05:00 - CPU: 3.48%, Memory: 21.00%, Disk I/O: 21020.39 MB/s
+   chrome -> 42.05
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 42.05
+   goland -> 9.75
+ALERT: CPU Usage of the program goland is exceeded threshold with value: 9.75
+   Xorg -> 2.32
+   gnome-shell -> 2.16
+   htop -> 1.93
+Metrics at 2024-09-10T19:13:42+05:00 - CPU: 100.00%, Memory: 10.61%, Disk I/O: 21070.02 MB/s
+   go -> 25.19
+   chrome -> 14.61
+   goland -> 9.76
+   main -> 7.75
+   Xorg -> 2.32
+ALERT: CPU Usage exceeded threshold with value: 100.00
+Metrics at 2024-09-10T19:13:53+05:00 - CPU: 2.34%, Memory: 16.60%, Disk I/O: 21096.72 MB/s
+   goland -> 9.76
+   chrome -> 9.35
+   Xorg -> 2.32
+   go -> 2.21
+   gnome-shell -> 2.17
+Metrics at 2024-09-10T19:14:03+05:00 - CPU: 6.39%, Memory: 23.46%, Disk I/O: 21103.39 MB/s
+   goland -> 9.77
+   chrome -> 7.51
+   Xorg -> 2.32
+   gnome-shell -> 2.18
+   htop -> 1.93
+Metrics at 2024-09-10T19:14:13+05:00 - CPU: 9.67%, Memory: 25.50%, Disk I/O: 21113.94 MB/s
+   goland -> 9.77
+   chrome -> 6.11
+   Xorg -> 2.33
+   gnome-shell -> 2.18
+   htop -> 1.93
+Metrics at 2024-09-10T19:14:23+05:00 - CPU: 11.65%, Memory: 15.21%, Disk I/O: 21126.82 MB/s
+   goland -> 9.76
+   chrome -> 5.15
+   Xorg -> 2.33
+   gnome-shell -> 2.19
+   htop -> 1.93
+Metrics at 2024-09-10T19:14:34+05:00 - CPU: 12.46%, Memory: 20.30%, Disk I/O: 21136.91 MB/s
+   goland -> 9.76
+   chrome -> 4.44
+   Xorg -> 2.33
+   gnome-shell -> 2.20
+   htop -> 1.93
+Metrics at 2024-09-10T19:14:44+05:00 - CPU: 6.59%, Memory: 24.25%, Disk I/O: 21145.28 MB/s
+   goland -> 9.76
+   chrome -> 4.13
+   Xorg -> 2.33
+   gnome-shell -> 2.20
+   htop -> 1.93
+Metrics at 2024-09-10T19:14:54+05:00 - CPU: 4.18%, Memory: 23.39%, Disk I/O: 21163.48 MB/s
+   goland -> 9.75
+   chrome -> 7.99
+   chrome -> 4.44
+   chrome -> 2.35
+   Xorg -> 2.33
+Metrics at 2024-09-10T19:15:04+05:00 - CPU: 7.03%, Memory: 23.69%, Disk I/O: 21187.72 MB/s
+   chrome -> 13.51
+   goland -> 9.75
+   chrome -> 6.19
+   chrome -> 5.30
+   chrome -> 5.04
+Metrics at 2024-09-10T19:15:14+05:00 - CPU: 5.30%, Memory: 26.54%, Disk I/O: 21213.03 MB/s
+   goland -> 9.76
+   chrome -> 4.84
+   chrome -> 3.87
+   Xorg -> 2.33
+   gnome-shell -> 2.21
+Metrics at 2024-09-10T19:15:24+05:00 - CPU: 1.38%, Memory: 14.31%, Disk I/O: 21217.06 MB/s
+   goland -> 9.76
+   chrome -> 4.44
+   chrome -> 3.47
+   Xorg -> 2.33
+   gnome-shell -> 2.21
+Metrics at 2024-09-10T19:16:51+05:00 - CPU: 0.00%, Memory: 11.02%, Disk I/O: 21335.96 MB/s
+   main -> 25.27
+ALERT: CPU Usage of the program main is exceeded threshold with value: 25.27
+   go -> 19.75
+ALERT: CPU Usage of the program go is exceeded threshold with value: 19.75
+   chrome -> 9.78
+   goland -> 9.77
+   Xorg -> 2.34
+Metrics at 2024-09-10T19:17:02+05:00 - CPU: 4.14%, Memory: 17.14%, Disk I/O: 21339.86 MB/s
+   chrome -> 72.19
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 72.19
+   goland -> 9.77
+   Xorg -> 2.34
+   gnome-shell -> 2.22
+   go -> 2.01
+Metrics at 2024-09-10T19:17:13+05:00 - CPU: 1.72%, Memory: 15.89%, Disk I/O: 21383.17 MB/s
+   chrome -> 19.19
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 19.19
+   goland -> 9.77
+   Xorg -> 2.34
+   gnome-shell -> 2.22
+   htop -> 1.93
+Metrics at 2024-09-10T19:17:24+05:00 - CPU: 1.71%, Memory: 20.19%, Disk I/O: 21404.09 MB/s
+   chrome -> 11.05
+   goland -> 9.77
+   Xorg -> 2.34
+   gnome-shell -> 2.23
+   htop -> 1.93
+Metrics at 2024-09-10T19:17:34+05:00 - CPU: 3.15%, Memory: 25.55%, Disk I/O: 21407.50 MB/s
+   chrome -> 98.22
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 98.22
+   goland -> 9.76
+   Xorg -> 2.34
+   gnome-shell -> 2.22
+   htop -> 1.94
+Metrics at 2024-09-10T19:17:45+05:00 - CPU: 1.19%, Memory: 15.37%, Disk I/O: 21452.49 MB/s
+   chrome -> 20.92
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 20.92
+   goland -> 9.76
+   Xorg -> 2.34
+   gnome-shell -> 2.22
+   htop -> 1.93
+Metrics at 2024-09-10T19:30:10+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 22330.71 MB/s
+   main -> 30.93 of CPU and 0.03 of Memory
+ALERT: CPU Usage of the program main is exceeded threshold with value: 30.93
+   go -> 22.87 of CPU and 0.06 of Memory
+ALERT: CPU Usage of the program go is exceeded threshold with value: 22.87
+   chrome -> 12.93 of CPU and 0.51 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 12.93
+   goland -> 10.61 of CPU and 7.70 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:30:22+05:00 - CPU: 3.57%, Memory: 18.27%, Disk I/O: 22334.59 MB/s
+   goland -> 10.62 of CPU and 7.70 of Memory
+   chrome -> 9.68 of CPU and 0.51 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   main -> 2.25 of CPU and 0.04 of Memory
+Metrics at 2024-09-10T19:33:20+05:00 - CPU: 50.00%, Memory: 11.03%, Disk I/O: 22426.66 MB/s
+   main -> 44.12 of CPU and 0.03 of Memory
+ALERT: CPU Usage of the program main is exceeded threshold with value: 44.12
+   chrome -> 36.63 of CPU and 0.56 of Memory
+   go -> 24.82 of CPU and 0.06 of Memory
+   goland -> 10.64 of CPU and 7.70 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+ALERT: CPU Usage exceeded threshold with value: 50.00
+Metrics at 2024-09-10T19:33:32+05:00 - CPU: 3.01%, Memory: 18.44%, Disk I/O: 22449.42 MB/s
+   chrome -> 17.32 of CPU and 0.56 of Memory
+   goland -> 10.64 of CPU and 7.70 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.26 of CPU and 1.18 of Memory
+   go -> 2.25 of CPU and 0.06 of Memory
+Metrics at 2024-09-10T19:33:42+05:00 - CPU: 3.40%, Memory: 24.71%, Disk I/O: 22492.49 MB/s
+   chrome -> 106.53 of CPU and 0.54 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 106.53
+   goland -> 10.65 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.09 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:33:44+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 22492.72 MB/s
+   chrome -> 134.68 of CPU and 0.53 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 134.68
+   main -> 45.35 of CPU and 0.03 of Memory
+ALERT: CPU Usage of the program main is exceeded threshold with value: 45.35
+   go -> 24.15 of CPU and 0.06 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:33:53+05:00 - CPU: 6.38%, Memory: 21.69%, Disk I/O: 22515.26 MB/s
+   chrome -> 35.54 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   bash -> 2.93 of CPU and 0.01 of Memory
+   go -> 2.72 of CPU and 0.06 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:33:56+05:00 - CPU: 4.09%, Memory: 17.67%, Disk I/O: 22515.72 MB/s
+   chrome -> 28.41 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   main -> 2.30 of CPU and 0.04 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:33:57+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 22515.72 MB/s
+   chrome -> 27.55 of CPU and 0.56 of Memory
+   main -> 20.51 of CPU and 0.03 of Memory
+   go -> 19.53 of CPU and 0.06 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:34:04+05:00 - CPU: 2.03%, Memory: 17.93%, Disk I/O: 22526.43 MB/s
+   chrome -> 19.32 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   go -> 3.68 of CPU and 0.06 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:34:07+05:00 - CPU: 2.55%, Memory: 22.04%, Disk I/O: 22526.66 MB/s
+   chrome -> 17.00 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   bash -> 5.94 of CPU and 0.01 of Memory
+   go -> 2.68 of CPU and 0.06 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:34:07+05:00 - CPU: 2.74%, Memory: 24.16%, Disk I/O: 22526.66 MB/s
+   chrome -> 16.67 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.71 of Memory
+   bash -> 4.19 of CPU and 0.01 of Memory
+   go -> 2.57 of CPU and 0.06 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:34:08+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 22559.95 MB/s
+   go -> 30.20 of CPU and 0.06 of Memory
+   chrome -> 15.86 of CPU and 0.56 of Memory
+   main -> 11.07 of CPU and 0.03 of Memory
+   goland -> 10.66 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:34:14+05:00 - CPU: 3.34%, Memory: 20.53%, Disk I/O: 22560.45 MB/s
+   chrome -> 14.38 of CPU and 0.51 of Memory
+   goland -> 10.66 of CPU and 7.71 of Memory
+   go -> 4.79 of CPU and 0.06 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:34:17+05:00 - CPU: 4.03%, Memory: 15.40%, Disk I/O: 22560.80 MB/s
+   chrome -> 13.15 of CPU and 0.51 of Memory
+   goland -> 10.66 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.10 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:34:24+05:00 - CPU: 4.26%, Memory: 20.09%, Disk I/O: 22570.69 MB/s
+   chrome -> 10.95 of CPU and 0.51 of Memory
+   goland -> 10.67 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.10 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:34:34+05:00 - CPU: 5.20%, Memory: 15.55%, Disk I/O: 22573.00 MB/s
+   chrome -> 119.07 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 119.07
+   goland -> 10.67 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.10 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:34:45+05:00 - CPU: 2.87%, Memory: 17.30%, Disk I/O: 22632.69 MB/s
+   chrome -> 28.40 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.10 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:34:55+05:00 - CPU: 2.37%, Memory: 12.07%, Disk I/O: 22643.22 MB/s
+   chrome -> 16.77 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.10 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:35:05+05:00 - CPU: 3.44%, Memory: 11.41%, Disk I/O: 22644.50 MB/s
+   chrome -> 162.39 of CPU and 0.51 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 162.39
+   goland -> 10.66 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.10 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:35:16+05:00 - CPU: 1.85%, Memory: 11.79%, Disk I/O: 22663.20 MB/s
+   chrome -> 31.72 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.10 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:35:26+05:00 - CPU: 1.06%, Memory: 14.59%, Disk I/O: 22689.73 MB/s
+   chrome -> 17.74 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.10 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:35:36+05:00 - CPU: 1.21%, Memory: 17.37%, Disk I/O: 22690.89 MB/s
+   goland -> 10.65 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+   chrome -> 1.70 of CPU and 0.96 of Memory
+Metrics at 2024-09-10T19:35:47+05:00 - CPU: 4.30%, Memory: 15.43%, Disk I/O: 22693.56 MB/s
+   chrome -> 35.65 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:35:57+05:00 - CPU: 0.89%, Memory: 19.32%, Disk I/O: 22694.67 MB/s
+   chrome -> 18.76 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:36:07+05:00 - CPU: 0.97%, Memory: 20.58%, Disk I/O: 22704.61 MB/s
+   chrome -> 13.26 of CPU and 0.51 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:36:17+05:00 - CPU: 1.00%, Memory: 14.93%, Disk I/O: 22738.24 MB/s
+   goland -> 10.64 of CPU and 7.71 of Memory
+   chrome -> 10.44 of CPU and 0.51 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:36:27+05:00 - CPU: 0.84%, Memory: 13.00%, Disk I/O: 22740.09 MB/s
+   goland -> 10.64 of CPU and 7.71 of Memory
+   chrome -> 8.39 of CPU and 0.51 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:36:37+05:00 - CPU: 1.05%, Memory: 11.81%, Disk I/O: 22742.44 MB/s
+   goland -> 10.63 of CPU and 7.71 of Memory
+   chrome -> 7.02 of CPU and 0.51 of Memory
+   Xorg -> 2.44 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:36:47+05:00 - CPU: 0.89%, Memory: 11.31%, Disk I/O: 22743.71 MB/s
+   goland -> 10.63 of CPU and 7.70 of Memory
+   chrome -> 6.03 of CPU and 0.51 of Memory
+   Xorg -> 2.44 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:36:57+05:00 - CPU: 1.73%, Memory: 11.81%, Disk I/O: 22745.34 MB/s
+   goland -> 10.63 of CPU and 7.70 of Memory
+   chrome -> 5.29 of CPU and 0.51 of Memory
+   Xorg -> 2.44 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.11 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:37:07+05:00 - CPU: 6.80%, Memory: 21.55%, Disk I/O: 22756.15 MB/s
+   chrome -> 38.83 of CPU and 0.57 of Memory
+   goland -> 10.65 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:37:18+05:00 - CPU: 3.28%, Memory: 11.59%, Disk I/O: 22790.26 MB/s
+   chrome -> 19.33 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:37:28+05:00 - CPU: 3.65%, Memory: 11.95%, Disk I/O: 22790.71 MB/s
+   chrome -> 12.87 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:37:38+05:00 - CPU: 6.31%, Memory: 19.56%, Disk I/O: 22791.76 MB/s
+   goland -> 10.70 of CPU and 7.71 of Memory
+   chrome -> 10.54 of CPU and 0.51 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:37:48+05:00 - CPU: 4.35%, Memory: 20.45%, Disk I/O: 22793.70 MB/s
+   goland -> 10.72 of CPU and 7.71 of Memory
+   chrome -> 8.42 of CPU and 0.51 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:37:58+05:00 - CPU: 5.59%, Memory: 13.19%, Disk I/O: 22797.79 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 7.02 of CPU and 0.51 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:38:08+05:00 - CPU: 4.80%, Memory: 12.40%, Disk I/O: 22802.12 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 6.10 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:38:18+05:00 - CPU: 6.05%, Memory: 17.24%, Disk I/O: 22815.34 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 5.35 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:38:28+05:00 - CPU: 3.63%, Memory: 20.61%, Disk I/O: 22819.29 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 4.76 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:38:38+05:00 - CPU: 3.30%, Memory: 14.45%, Disk I/O: 22828.57 MB/s
+   goland -> 10.73 of CPU and 7.71 of Memory
+   chrome -> 4.29 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.12 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:38:49+05:00 - CPU: 5.66%, Memory: 14.30%, Disk I/O: 22837.60 MB/s
+   goland -> 10.75 of CPU and 7.71 of Memory
+   chrome -> 3.90 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:38:59+05:00 - CPU: 4.80%, Memory: 16.55%, Disk I/O: 22842.96 MB/s
+   goland -> 10.75 of CPU and 7.71 of Memory
+   chrome -> 3.59 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:39:09+05:00 - CPU: 2.76%, Memory: 11.34%, Disk I/O: 22849.29 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 3.31 of CPU and 0.52 of Memory
+   Xorg -> 2.50 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:39:19+05:00 - CPU: 4.26%, Memory: 12.59%, Disk I/O: 22857.21 MB/s
+   goland -> 10.75 of CPU and 7.71 of Memory
+   chrome -> 3.08 of CPU and 0.52 of Memory
+   Xorg -> 2.50 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:39:29+05:00 - CPU: 2.39%, Memory: 18.94%, Disk I/O: 22866.24 MB/s
+   goland -> 10.75 of CPU and 7.71 of Memory
+   chrome -> 2.88 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:39:39+05:00 - CPU: 2.68%, Memory: 16.68%, Disk I/O: 22867.95 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 2.70 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:39:49+05:00 - CPU: 2.98%, Memory: 12.22%, Disk I/O: 22876.04 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 2.54 of CPU and 0.52 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:39:59+05:00 - CPU: 6.95%, Memory: 11.98%, Disk I/O: 22883.48 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.50 of CPU and 0.52 of Memory
+   chrome -> 2.41 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:40:09+05:00 - CPU: 1.76%, Memory: 14.82%, Disk I/O: 22885.89 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.50 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   chrome -> 2.29 of CPU and 0.52 of Memory
+   htop -> 2.13 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:40:20+05:00 - CPU: 2.64%, Memory: 12.33%, Disk I/O: 22891.84 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.50 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   chrome -> 2.17 of CPU and 0.52 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:40:30+05:00 - CPU: 1.87%, Memory: 16.83%, Disk I/O: 22902.91 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+   chrome -> 2.07 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:40:40+05:00 - CPU: 0.89%, Memory: 17.02%, Disk I/O: 22904.36 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+   chrome -> 1.97 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:40:50+05:00 - CPU: 2.89%, Memory: 20.74%, Disk I/O: 22911.02 MB/s
+   goland -> 10.75 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+   chrome -> 1.89 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:41:00+05:00 - CPU: 5.74%, Memory: 12.32%, Disk I/O: 22915.14 MB/s
+   goland -> 10.75 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+   chrome -> 1.82 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:41:10+05:00 - CPU: 3.22%, Memory: 18.90%, Disk I/O: 22925.17 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+   chrome -> 1.75 of CPU and 0.52 of Memory
+Metrics at 2024-09-10T19:41:20+05:00 - CPU: 3.20%, Memory: 14.14%, Disk I/O: 22934.26 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+   chrome -> 1.73 of CPU and 0.96 of Memory
+Metrics at 2024-09-10T19:41:30+05:00 - CPU: 2.03%, Memory: 16.12%, Disk I/O: 22935.70 MB/s
+   goland -> 10.75 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+   chrome -> 1.73 of CPU and 0.96 of Memory
+Metrics at 2024-09-10T19:41:40+05:00 - CPU: 3.60%, Memory: 19.79%, Disk I/O: 22959.99 MB/s
+   chrome -> 45.17 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 45.17
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:41:52+05:00 - CPU: 1.98%, Memory: 11.67%, Disk I/O: 22992.47 MB/s
+   chrome -> 20.02 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:42:02+05:00 - CPU: 1.86%, Memory: 16.88%, Disk I/O: 22997.31 MB/s
+   chrome -> 13.35 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.14 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:42:12+05:00 - CPU: 2.11%, Memory: 12.60%, Disk I/O: 22999.19 MB/s
+   chrome -> 10.91 of CPU and 0.51 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:42:22+05:00 - CPU: 0.75%, Memory: 15.84%, Disk I/O: 23005.45 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 8.73 of CPU and 0.51 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.31 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:42:32+05:00 - CPU: 1.76%, Memory: 17.85%, Disk I/O: 23008.19 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 7.27 of CPU and 0.51 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:42:42+05:00 - CPU: 4.59%, Memory: 16.27%, Disk I/O: 23034.20 MB/s
+   chrome -> 50.96 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 50.96
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:42:53+05:00 - CPU: 0.96%, Memory: 14.82%, Disk I/O: 23063.86 MB/s
+   chrome -> 21.11 of CPU and 0.56 of Memory
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:43:03+05:00 - CPU: 2.72%, Memory: 14.37%, Disk I/O: 23070.97 MB/s
+   chrome -> 13.71 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:43:13+05:00 - CPU: 4.90%, Memory: 20.21%, Disk I/O: 23095.78 MB/s
+   chrome -> 71.42 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 71.42
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:43:25+05:00 - CPU: 1.28%, Memory: 11.24%, Disk I/O: 23122.33 MB/s
+   chrome -> 24.44 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:43:35+05:00 - CPU: 1.74%, Memory: 20.68%, Disk I/O: 23128.73 MB/s
+   chrome -> 15.43 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.30 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:43:45+05:00 - CPU: 5.07%, Memory: 17.29%, Disk I/O: 23159.20 MB/s
+   chrome -> 79.21 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 79.21
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:43:56+05:00 - CPU: 0.98%, Memory: 16.92%, Disk I/O: 23177.94 MB/s
+   chrome -> 26.28 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:44:06+05:00 - CPU: 1.78%, Memory: 20.24%, Disk I/O: 23184.53 MB/s
+   chrome -> 16.36 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.15 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:44:16+05:00 - CPU: 2.08%, Memory: 15.99%, Disk I/O: 23192.66 MB/s
+   chrome -> 12.85 of CPU and 0.51 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:44:26+05:00 - CPU: 0.82%, Memory: 16.55%, Disk I/O: 23194.58 MB/s
+   goland -> 10.73 of CPU and 7.71 of Memory
+   chrome -> 10.09 of CPU and 0.51 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:44:36+05:00 - CPU: 1.78%, Memory: 19.84%, Disk I/O: 23203.81 MB/s
+   goland -> 10.73 of CPU and 7.71 of Memory
+   chrome -> 8.30 of CPU and 0.51 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.29 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:44:47+05:00 - CPU: 1.93%, Memory: 17.97%, Disk I/O: 23209.34 MB/s
+   goland -> 10.73 of CPU and 7.71 of Memory
+   chrome -> 7.05 of CPU and 0.51 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:44:57+05:00 - CPU: 1.50%, Memory: 18.31%, Disk I/O: 23210.66 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 6.13 of CPU and 0.51 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:45:07+05:00 - CPU: 1.66%, Memory: 15.41%, Disk I/O: 23215.22 MB/s
+   goland -> 10.74 of CPU and 7.71 of Memory
+   chrome -> 5.42 of CPU and 0.51 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:45:17+05:00 - CPU: 4.84%, Memory: 17.66%, Disk I/O: 23239.95 MB/s
+   chrome -> 49.53 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 49.53
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:45:28+05:00 - CPU: 1.81%, Memory: 13.48%, Disk I/O: 23265.74 MB/s
+   chrome -> 21.57 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:45:38+05:00 - CPU: 0.76%, Memory: 20.67%, Disk I/O: 23272.17 MB/s
+   chrome -> 14.24 of CPU and 0.56 of Memory
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:45:48+05:00 - CPU: 4.43%, Memory: 11.39%, Disk I/O: 23279.79 MB/s
+   chrome -> 59.53 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 59.53
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:45:59+05:00 - CPU: 1.77%, Memory: 11.68%, Disk I/O: 23285.57 MB/s
+   chrome -> 22.72 of CPU and 0.56 of Memory
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:46:09+05:00 - CPU: 0.76%, Memory: 16.84%, Disk I/O: 23285.76 MB/s
+   chrome -> 14.53 of CPU and 0.56 of Memory
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:46:20+05:00 - CPU: 2.08%, Memory: 16.55%, Disk I/O: 23334.65 MB/s
+   chrome -> 11.62 of CPU and 0.51 of Memory
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:46:30+05:00 - CPU: 2.79%, Memory: 13.45%, Disk I/O: 23340.38 MB/s
+   goland -> 10.73 of CPU and 7.71 of Memory
+   chrome -> 9.18 of CPU and 0.51 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:46:40+05:00 - CPU: 1.61%, Memory: 13.14%, Disk I/O: 23341.85 MB/s
+   goland -> 10.73 of CPU and 7.71 of Memory
+   chrome -> 7.59 of CPU and 0.51 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.28 of CPU and 1.18 of Memory
+   htop -> 2.16 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:46:50+05:00 - CPU: 2.81%, Memory: 15.51%, Disk I/O: 23347.37 MB/s
+   goland -> 10.73 of CPU and 7.71 of Memory
+   chrome -> 6.47 of CPU and 0.51 of Memory
+   Xorg -> 2.45 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:47:00+05:00 - CPU: 5.59%, Memory: 13.37%, Disk I/O: 23352.31 MB/s
+   chrome -> 116.79 of CPU and 0.52 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 116.79
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:47:13+05:00 - CPU: 3.02%, Memory: 17.05%, Disk I/O: 23395.45 MB/s
+   chrome -> 25.97 of CPU and 0.56 of Memory
+   goland -> 10.74 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:47:23+05:00 - CPU: 0.93%, Memory: 16.75%, Disk I/O: 23404.32 MB/s
+   chrome -> 15.73 of CPU and 0.56 of Memory
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:47:33+05:00 - CPU: 5.27%, Memory: 17.08%, Disk I/O: 23410.58 MB/s
+   chrome -> 118.26 of CPU and 0.52 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 118.26
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.46 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:47:44+05:00 - CPU: 3.40%, Memory: 11.68%, Disk I/O: 23452.90 MB/s
+   chrome -> 31.71 of CPU and 0.56 of Memory
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.27 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:47:54+05:00 - CPU: 0.78%, Memory: 12.97%, Disk I/O: 23462.70 MB/s
+   chrome -> 18.22 of CPU and 0.56 of Memory
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.26 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:48:04+05:00 - CPU: 3.63%, Memory: 12.67%, Disk I/O: 23470.38 MB/s
+   chrome -> 108.56 of CPU and 0.53 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 108.56
+   goland -> 10.73 of CPU and 7.71 of Memory
+   Xorg -> 2.47 of CPU and 0.52 of Memory
+   gnome-shell -> 2.26 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:48:16+05:00 - CPU: 4.58%, Memory: 11.70%, Disk I/O: 23518.36 MB/s
+   chrome -> 33.93 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.71 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.26 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:48:26+05:00 - CPU: 0.75%, Memory: 11.96%, Disk I/O: 23518.71 MB/s
+   chrome -> 18.66 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.71 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.26 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:48:36+05:00 - CPU: 2.81%, Memory: 15.24%, Disk I/O: 23527.02 MB/s
+   chrome -> 13.94 of CPU and 0.51 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.26 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:48:46+05:00 - CPU: 4.40%, Memory: 11.75%, Disk I/O: 23548.46 MB/s
+   chrome -> 46.23 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 46.23
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.26 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:48:57+05:00 - CPU: 2.60%, Memory: 15.75%, Disk I/O: 23565.86 MB/s
+   chrome -> 20.41 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.48 of CPU and 0.52 of Memory
+   gnome-shell -> 2.26 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:49:07+05:00 - CPU: 1.74%, Memory: 15.56%, Disk I/O: 23595.44 MB/s
+   chrome -> 13.47 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.25 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:49:17+05:00 - CPU: 6.80%, Memory: 15.15%, Disk I/O: 23602.30 MB/s
+   chrome -> 67.44 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 67.44
+   goland -> 10.73 of CPU and 7.72 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.25 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:49:28+05:00 - CPU: 1.94%, Memory: 14.30%, Disk I/O: 23646.70 MB/s
+   chrome -> 25.97 of CPU and 0.56 of Memory
+   goland -> 10.73 of CPU and 7.72 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.25 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:49:38+05:00 - CPU: 1.77%, Memory: 13.40%, Disk I/O: 23654.49 MB/s
+   chrome -> 16.61 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.25 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:49:48+05:00 - CPU: 6.74%, Memory: 15.04%, Disk I/O: 23664.48 MB/s
+   chrome -> 14.40 of CPU and 0.54 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.25 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:49:59+05:00 - CPU: 1.58%, Memory: 11.74%, Disk I/O: 23667.53 MB/s
+   chrome -> 11.38 of CPU and 0.54 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.25 of CPU and 1.18 of Memory
+   htop -> 2.17 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:50:09+05:00 - CPU: 1.85%, Memory: 15.40%, Disk I/O: 23676.07 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 9.41 of CPU and 0.54 of Memory
+   Xorg -> 2.49 of CPU and 0.52 of Memory
+   gnome-shell -> 2.24 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:50:19+05:00 - CPU: 2.85%, Memory: 19.96%, Disk I/O: 23680.74 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 8.02 of CPU and 0.54 of Memory
+   Xorg -> 2.50 of CPU and 0.52 of Memory
+   gnome-shell -> 2.24 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:50:29+05:00 - CPU: 2.92%, Memory: 20.45%, Disk I/O: 23691.05 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 6.98 of CPU and 0.54 of Memory
+   Xorg -> 2.50 of CPU and 0.52 of Memory
+   gnome-shell -> 2.24 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:50:39+05:00 - CPU: 0.82%, Memory: 20.99%, Disk I/O: 23692.81 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 6.19 of CPU and 0.54 of Memory
+   Xorg -> 2.50 of CPU and 0.52 of Memory
+   gnome-shell -> 2.24 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:50:49+05:00 - CPU: 2.98%, Memory: 21.15%, Disk I/O: 23700.75 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 5.55 of CPU and 0.54 of Memory
+   Xorg -> 2.51 of CPU and 0.52 of Memory
+   gnome-shell -> 2.24 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:50:59+05:00 - CPU: 2.77%, Memory: 12.00%, Disk I/O: 23708.31 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 5.04 of CPU and 0.54 of Memory
+   Xorg -> 2.51 of CPU and 0.52 of Memory
+   gnome-shell -> 2.24 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:51:09+05:00 - CPU: 1.83%, Memory: 14.52%, Disk I/O: 23709.56 MB/s
+   chrome -> 22.08 of CPU and 0.26 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.51 of CPU and 0.52 of Memory
+   gnome-shell -> 2.24 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:51:19+05:00 - CPU: 5.13%, Memory: 16.34%, Disk I/O: 23737.02 MB/s
+   chrome -> 37.31 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.51 of CPU and 0.52 of Memory
+   gnome-shell -> 2.23 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:51:30+05:00 - CPU: 3.86%, Memory: 17.29%, Disk I/O: 23796.33 MB/s
+   chrome -> 19.46 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.51 of CPU and 0.52 of Memory
+   gnome-shell -> 2.23 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:51:40+05:00 - CPU: 0.97%, Memory: 21.13%, Disk I/O: 23802.24 MB/s
+   chrome -> 14.25 of CPU and 0.51 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.51 of CPU and 0.52 of Memory
+   gnome-shell -> 2.23 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:51:50+05:00 - CPU: 2.86%, Memory: 13.01%, Disk I/O: 23810.45 MB/s
+   chrome -> 10.76 of CPU and 0.51 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.52 of CPU and 0.52 of Memory
+   gnome-shell -> 2.23 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:52:00+05:00 - CPU: 2.82%, Memory: 12.51%, Disk I/O: 23812.46 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 8.65 of CPU and 0.51 of Memory
+   Xorg -> 2.52 of CPU and 0.52 of Memory
+   gnome-shell -> 2.23 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:52:10+05:00 - CPU: 0.82%, Memory: 12.93%, Disk I/O: 23818.92 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 7.23 of CPU and 0.51 of Memory
+   Xorg -> 2.52 of CPU and 0.52 of Memory
+   gnome-shell -> 2.23 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:52:20+05:00 - CPU: 2.91%, Memory: 14.32%, Disk I/O: 23826.11 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 6.21 of CPU and 0.51 of Memory
+   Xorg -> 2.52 of CPU and 0.52 of Memory
+   gnome-shell -> 2.23 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:52:30+05:00 - CPU: 3.14%, Memory: 12.25%, Disk I/O: 23829.13 MB/s
+   goland -> 10.72 of CPU and 7.72 of Memory
+   chrome -> 5.44 of CPU and 0.51 of Memory
+   Xorg -> 2.53 of CPU and 0.52 of Memory
+   gnome-shell -> 2.22 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:52:40+05:00 - CPU: 1.59%, Memory: 16.81%, Disk I/O: 23835.56 MB/s
+   chrome -> 21.48 of CPU and 0.26 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.53 of CPU and 0.52 of Memory
+   gnome-shell -> 2.22 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:52:50+05:00 - CPU: 4.77%, Memory: 16.37%, Disk I/O: 23860.17 MB/s
+   chrome -> 36.39 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.53 of CPU and 0.52 of Memory
+   gnome-shell -> 2.22 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:53:00+05:00 - CPU: 2.80%, Memory: 19.78%, Disk I/O: 23886.64 MB/s
+   chrome -> 18.96 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.53 of CPU and 0.52 of Memory
+   gnome-shell -> 2.22 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:53:11+05:00 - CPU: 1.01%, Memory: 21.47%, Disk I/O: 23893.62 MB/s
+   chrome -> 13.94 of CPU and 0.51 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.53 of CPU and 0.52 of Memory
+   gnome-shell -> 2.22 of CPU and 1.18 of Memory
+   htop -> 2.18 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:53:21+05:00 - CPU: 5.76%, Memory: 18.56%, Disk I/O: 23917.88 MB/s
+   chrome -> 48.22 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 48.22
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.53 of CPU and 0.52 of Memory
+   gnome-shell -> 2.22 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:53:32+05:00 - CPU: 3.43%, Memory: 18.12%, Disk I/O: 23943.91 MB/s
+   chrome -> 20.76 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.54 of CPU and 0.52 of Memory
+   gnome-shell -> 2.21 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:53:42+05:00 - CPU: 0.85%, Memory: 20.64%, Disk I/O: 23950.45 MB/s
+   chrome -> 13.62 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.54 of CPU and 0.52 of Memory
+   gnome-shell -> 2.21 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:53:52+05:00 - CPU: 3.11%, Memory: 13.78%, Disk I/O: 23958.97 MB/s
+   chrome -> 11.05 of CPU and 0.51 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.54 of CPU and 0.52 of Memory
+   gnome-shell -> 2.21 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:54:02+05:00 - CPU: 2.86%, Memory: 13.93%, Disk I/O: 23967.58 MB/s
+   goland -> 10.71 of CPU and 7.72 of Memory
+   chrome -> 8.80 of CPU and 0.51 of Memory
+   Xorg -> 2.55 of CPU and 0.52 of Memory
+   gnome-shell -> 2.21 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:54:12+05:00 - CPU: 3.80%, Memory: 13.53%, Disk I/O: 23969.98 MB/s
+   chrome -> 70.34 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 70.34
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.54 of CPU and 0.52 of Memory
+   gnome-shell -> 2.21 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:54:23+05:00 - CPU: 1.77%, Memory: 15.61%, Disk I/O: 24018.07 MB/s
+   chrome -> 24.69 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.54 of CPU and 0.52 of Memory
+   gnome-shell -> 2.21 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:54:33+05:00 - CPU: 2.98%, Memory: 16.75%, Disk I/O: 24026.49 MB/s
+   chrome -> 15.34 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.55 of CPU and 0.52 of Memory
+   gnome-shell -> 2.21 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:54:43+05:00 - CPU: 5.55%, Memory: 15.77%, Disk I/O: 24028.28 MB/s
+   chrome -> 116.12 of CPU and 0.53 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 116.12
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.55 of CPU and 0.52 of Memory
+   gnome-shell -> 2.20 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:54:54+05:00 - CPU: 1.68%, Memory: 16.25%, Disk I/O: 24075.65 MB/s
+   chrome -> 33.36 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.54 of CPU and 0.52 of Memory
+   gnome-shell -> 2.20 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:55:04+05:00 - CPU: 3.31%, Memory: 16.64%, Disk I/O: 24080.24 MB/s
+   chrome -> 19.12 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.55 of CPU and 0.52 of Memory
+   gnome-shell -> 2.20 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:55:14+05:00 - CPU: 3.13%, Memory: 19.69%, Disk I/O: 24082.55 MB/s
+   chrome -> 14.50 of CPU and 0.51 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.55 of CPU and 0.52 of Memory
+   gnome-shell -> 2.20 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:55:24+05:00 - CPU: 4.18%, Memory: 16.07%, Disk I/O: 24098.87 MB/s
+   chrome -> 36.98 of CPU and 0.57 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.56 of CPU and 0.52 of Memory
+   gnome-shell -> 2.20 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:55:34+05:00 - CPU: 2.85%, Memory: 21.71%, Disk I/O: 24138.77 MB/s
+   chrome -> 19.23 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.55 of CPU and 0.52 of Memory
+   gnome-shell -> 2.20 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:55:45+05:00 - CPU: 1.99%, Memory: 13.46%, Disk I/O: 24139.69 MB/s
+   chrome -> 12.98 of CPU and 0.56 of Memory
+   goland -> 10.72 of CPU and 7.72 of Memory
+   Xorg -> 2.55 of CPU and 0.52 of Memory
+   gnome-shell -> 2.20 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:55:55+05:00 - CPU: 4.85%, Memory: 16.17%, Disk I/O: 24157.24 MB/s
+   chrome -> 50.73 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 50.73
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.55 of CPU and 0.52 of Memory
+   gnome-shell -> 2.19 of CPU and 1.18 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+Metrics at 2024-09-10T19:56:05+05:00 - CPU: 2.75%, Memory: 11.71%, Disk I/O: 24198.62 MB/s
+   chrome -> 21.91 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.56 of CPU and 0.52 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+   gnome-shell -> 2.19 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:56:16+05:00 - CPU: 2.94%, Memory: 18.78%, Disk I/O: 24199.54 MB/s
+   chrome -> 14.32 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.56 of CPU and 0.52 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+   gnome-shell -> 2.19 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:56:26+05:00 - CPU: 1.02%, Memory: 18.01%, Disk I/O: 24203.85 MB/s
+   chrome -> 11.53 of CPU and 0.51 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.56 of CPU and 0.52 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+   gnome-shell -> 2.19 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:56:36+05:00 - CPU: 2.81%, Memory: 11.82%, Disk I/O: 24213.23 MB/s
+   goland -> 10.71 of CPU and 7.72 of Memory
+   chrome -> 9.19 of CPU and 0.51 of Memory
+   Xorg -> 2.56 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.19 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:56:46+05:00 - CPU: 2.86%, Memory: 21.11%, Disk I/O: 24218.65 MB/s
+   goland -> 10.71 of CPU and 7.72 of Memory
+   chrome -> 7.63 of CPU and 0.51 of Memory
+   Xorg -> 2.57 of CPU and 0.52 of Memory
+   htop -> 2.19 of CPU and 0.02 of Memory
+   gnome-shell -> 2.19 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:56:56+05:00 - CPU: 1.79%, Memory: 11.33%, Disk I/O: 24220.19 MB/s
+   goland -> 10.71 of CPU and 7.72 of Memory
+   chrome -> 6.52 of CPU and 0.51 of Memory
+   Xorg -> 2.57 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.19 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:57:06+05:00 - CPU: 2.83%, Memory: 15.76%, Disk I/O: 24227.50 MB/s
+   goland -> 10.71 of CPU and 7.72 of Memory
+   chrome -> 5.70 of CPU and 0.51 of Memory
+   Xorg -> 2.58 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.19 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:57:16+05:00 - CPU: 4.52%, Memory: 12.07%, Disk I/O: 24248.89 MB/s
+   chrome -> 51.65 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 51.65
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.58 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.18 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:57:27+05:00 - CPU: 2.09%, Memory: 15.54%, Disk I/O: 24275.01 MB/s
+   chrome -> 21.62 of CPU and 0.56 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.58 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.18 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:57:37+05:00 - CPU: 2.18%, Memory: 13.03%, Disk I/O: 24281.73 MB/s
+   chrome -> 14.07 of CPU and 0.56 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.58 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.18 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:57:47+05:00 - CPU: 7.29%, Memory: 14.40%, Disk I/O: 24298.11 MB/s
+   chrome -> 75.75 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 75.75
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.58 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.18 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:57:58+05:00 - CPU: 2.40%, Memory: 13.52%, Disk I/O: 24334.34 MB/s
+   chrome -> 26.75 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.59 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.18 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:58:08+05:00 - CPU: 1.10%, Memory: 19.73%, Disk I/O: 24340.49 MB/s
+   chrome -> 16.68 of CPU and 0.56 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.59 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.18 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:58:18+05:00 - CPU: 3.11%, Memory: 19.63%, Disk I/O: 24347.61 MB/s
+   chrome -> 13.26 of CPU and 0.51 of Memory
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.59 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.18 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:58:28+05:00 - CPU: 1.75%, Memory: 20.13%, Disk I/O: 24348.58 MB/s
+   goland -> 10.71 of CPU and 7.72 of Memory
+   chrome -> 10.41 of CPU and 0.51 of Memory
+   Xorg -> 2.59 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:58:39+05:00 - CPU: 1.78%, Memory: 18.42%, Disk I/O: 24354.17 MB/s
+   goland -> 10.71 of CPU and 7.72 of Memory
+   chrome -> 8.57 of CPU and 0.51 of Memory
+   Xorg -> 2.59 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:58:49+05:00 - CPU: 5.53%, Memory: 11.36%, Disk I/O: 24376.50 MB/s
+   chrome -> 84.23 of CPU and 0.58 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 84.23
+   goland -> 10.71 of CPU and 7.72 of Memory
+   Xorg -> 2.59 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:59:00+05:00 - CPU: 2.59%, Memory: 16.24%, Disk I/O: 24403.65 MB/s
+   chrome -> 30.77 of CPU and 0.57 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.60 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:59:10+05:00 - CPU: 0.89%, Memory: 16.25%, Disk I/O: 24410.16 MB/s
+   chrome -> 19.37 of CPU and 0.57 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.59 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:59:20+05:00 - CPU: 5.38%, Memory: 14.12%, Disk I/O: 24434.23 MB/s
+   chrome -> 107.50 of CPU and 0.79 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 107.50
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.60 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:59:31+05:00 - CPU: 3.16%, Memory: 18.83%, Disk I/O: 24443.98 MB/s
+   chrome -> 28.64 of CPU and 0.56 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.60 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:59:41+05:00 - CPU: 0.76%, Memory: 19.30%, Disk I/O: 24485.57 MB/s
+   chrome -> 16.75 of CPU and 0.56 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.60 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T19:59:51+05:00 - CPU: 5.01%, Memory: 17.27%, Disk I/O: 24493.42 MB/s
+   chrome -> 125.00 of CPU and 0.60 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 125.00
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.61 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:00:02+05:00 - CPU: 4.07%, Memory: 18.75%, Disk I/O: 24538.06 MB/s
+   chrome -> 32.22 of CPU and 0.56 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.60 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:00:12+05:00 - CPU: 0.76%, Memory: 19.09%, Disk I/O: 24543.63 MB/s
+   chrome -> 17.78 of CPU and 0.56 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.60 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:00:22+05:00 - CPU: 3.01%, Memory: 21.11%, Disk I/O: 24553.06 MB/s
+   chrome -> 13.32 of CPU and 0.51 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.61 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.17 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:00:32+05:00 - CPU: 2.89%, Memory: 18.72%, Disk I/O: 24554.27 MB/s
+   goland -> 10.70 of CPU and 7.72 of Memory
+   chrome -> 10.17 of CPU and 0.51 of Memory
+   Xorg -> 2.61 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:00:42+05:00 - CPU: 1.81%, Memory: 11.56%, Disk I/O: 24562.84 MB/s
+   goland -> 10.70 of CPU and 7.72 of Memory
+   chrome -> 8.23 of CPU and 0.51 of Memory
+   Xorg -> 2.62 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:00:52+05:00 - CPU: 3.18%, Memory: 13.01%, Disk I/O: 24568.99 MB/s
+   goland -> 10.70 of CPU and 7.72 of Memory
+   chrome -> 6.91 of CPU and 0.51 of Memory
+   Xorg -> 2.62 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:01:02+05:00 - CPU: 4.49%, Memory: 11.79%, Disk I/O: 24573.33 MB/s
+   chrome -> 78.36 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 78.36
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.62 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:01:13+05:00 - CPU: 2.73%, Memory: 14.92%, Disk I/O: 24616.29 MB/s
+   chrome -> 24.93 of CPU and 0.56 of Memory
+   goland -> 10.70 of CPU and 7.72 of Memory
+   Xorg -> 2.62 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:01:24+05:00 - CPU: 1.66%, Memory: 11.82%, Disk I/O: 24623.49 MB/s
+   chrome -> 15.29 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.63 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:01:34+05:00 - CPU: 2.29%, Memory: 14.63%, Disk I/O: 24631.20 MB/s
+   chrome -> 11.97 of CPU and 0.51 of Memory
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.63 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.16 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:01:44+05:00 - CPU: 2.78%, Memory: 16.42%, Disk I/O: 24632.22 MB/s
+   goland -> 10.69 of CPU and 7.72 of Memory
+   chrome -> 9.36 of CPU and 0.51 of Memory
+   Xorg -> 2.63 of CPU and 0.52 of Memory
+   htop -> 2.20 of CPU and 0.02 of Memory
+   gnome-shell -> 2.15 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:01:54+05:00 - CPU: 0.85%, Memory: 16.12%, Disk I/O: 24640.41 MB/s
+   goland -> 10.69 of CPU and 7.72 of Memory
+   chrome -> 7.68 of CPU and 0.51 of Memory
+   Xorg -> 2.63 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.15 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:02:04+05:00 - CPU: 4.21%, Memory: 15.91%, Disk I/O: 24645.61 MB/s
+   goland -> 10.70 of CPU and 7.72 of Memory
+   chrome -> 6.52 of CPU and 0.51 of Memory
+   Xorg -> 2.63 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.15 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:02:14+05:00 - CPU: 2.77%, Memory: 14.69%, Disk I/O: 24646.49 MB/s
+   goland -> 10.70 of CPU and 7.72 of Memory
+   chrome -> 5.66 of CPU and 0.51 of Memory
+   Xorg -> 2.64 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.15 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:02:24+05:00 - CPU: 0.76%, Memory: 19.07%, Disk I/O: 24653.45 MB/s
+   goland -> 10.70 of CPU and 7.72 of Memory
+   chrome -> 5.00 of CPU and 0.51 of Memory
+   Xorg -> 2.64 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.15 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:02:34+05:00 - CPU: 2.89%, Memory: 20.89%, Disk I/O: 24660.94 MB/s
+   goland -> 10.70 of CPU and 7.72 of Memory
+   chrome -> 4.50 of CPU and 0.51 of Memory
+   Xorg -> 2.64 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.15 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:02:44+05:00 - CPU: 2.86%, Memory: 14.15%, Disk I/O: 24663.78 MB/s
+   goland -> 10.70 of CPU and 7.72 of Memory
+   chrome -> 4.07 of CPU and 0.51 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.15 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:02:55+05:00 - CPU: 0.84%, Memory: 18.31%, Disk I/O: 24669.01 MB/s
+   goland -> 10.69 of CPU and 7.72 of Memory
+   chrome -> 3.72 of CPU and 0.51 of Memory
+   Xorg -> 2.64 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.15 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:03:05+05:00 - CPU: 2.74%, Memory: 20.27%, Disk I/O: 24676.65 MB/s
+   goland -> 10.69 of CPU and 7.72 of Memory
+   chrome -> 3.43 of CPU and 0.51 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.14 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:03:15+05:00 - CPU: 5.47%, Memory: 20.17%, Disk I/O: 24687.26 MB/s
+   chrome -> 62.04 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 62.04
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.14 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:03:26+05:00 - CPU: 1.18%, Memory: 11.79%, Disk I/O: 24726.72 MB/s
+   chrome -> 22.36 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.64 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.14 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:03:36+05:00 - CPU: 2.86%, Memory: 19.20%, Disk I/O: 24730.75 MB/s
+   chrome -> 14.21 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.14 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:03:46+05:00 - CPU: 5.94%, Memory: 10.57%, Disk I/O: 24733.51 MB/s
+   chrome -> 83.01 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 83.01
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.14 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:03:57+05:00 - CPU: 1.77%, Memory: 11.72%, Disk I/O: 24781.70 MB/s
+   chrome -> 25.45 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.72 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.14 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:04:07+05:00 - CPU: 2.77%, Memory: 21.36%, Disk I/O: 24789.04 MB/s
+   chrome -> 15.51 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.14 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:04:17+05:00 - CPU: 4.07%, Memory: 12.76%, Disk I/O: 24795.65 MB/s
+   chrome -> 147.30 of CPU and 0.52 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 147.30
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:04:28+05:00 - CPU: 2.73%, Memory: 11.83%, Disk I/O: 24815.11 MB/s
+   chrome -> 30.58 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:04:38+05:00 - CPU: 1.51%, Memory: 14.50%, Disk I/O: 24847.22 MB/s
+   chrome -> 17.17 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:04:49+05:00 - CPU: 3.29%, Memory: 15.83%, Disk I/O: 24854.42 MB/s
+   chrome -> 19.61 of CPU and 0.30 of Memory
+   goland -> 10.69 of CPU and 7.72 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:04:59+05:00 - CPU: 4.52%, Memory: 17.68%, Disk I/O: 24874.03 MB/s
+   chrome -> 37.31 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:05:09+05:00 - CPU: 1.83%, Memory: 19.89%, Disk I/O: 24903.47 MB/s
+   chrome -> 19.68 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.73 of Memory
+   Xorg -> 2.65 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:05:19+05:00 - CPU: 2.95%, Memory: 20.52%, Disk I/O: 24910.28 MB/s
+   chrome -> 13.97 of CPU and 0.51 of Memory
+   goland -> 10.69 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:05:29+05:00 - CPU: 4.67%, Memory: 13.30%, Disk I/O: 24928.91 MB/s
+   chrome -> 46.25 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 46.25
+   goland -> 10.69 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:05:40+05:00 - CPU: 0.85%, Memory: 11.82%, Disk I/O: 24958.86 MB/s
+   chrome -> 20.37 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:05:50+05:00 - CPU: 2.84%, Memory: 12.19%, Disk I/O: 24965.89 MB/s
+   chrome -> 13.42 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:06:00+05:00 - CPU: 4.76%, Memory: 21.79%, Disk I/O: 24977.22 MB/s
+   chrome -> 59.51 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 59.51
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:06:11+05:00 - CPU: 0.96%, Memory: 13.48%, Disk I/O: 25016.79 MB/s
+   chrome -> 22.74 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.13 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:06:21+05:00 - CPU: 3.89%, Memory: 21.61%, Disk I/O: 25023.25 MB/s
+   chrome -> 14.47 of CPU and 0.56 of Memory
+   goland -> 10.69 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.12 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:06:31+05:00 - CPU: 2.38%, Memory: 20.54%, Disk I/O: 25025.24 MB/s
+   chrome -> 11.53 of CPU and 0.51 of Memory
+   goland -> 10.69 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.12 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:06:41+05:00 - CPU: 1.43%, Memory: 20.74%, Disk I/O: 25031.19 MB/s
+   goland -> 10.68 of CPU and 7.73 of Memory
+   chrome -> 9.12 of CPU and 0.52 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.12 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:06:52+05:00 - CPU: 2.79%, Memory: 13.38%, Disk I/O: 25039.86 MB/s
+   goland -> 10.68 of CPU and 7.73 of Memory
+   chrome -> 7.54 of CPU and 0.52 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.12 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:07:02+05:00 - CPU: 1.84%, Memory: 19.51%, Disk I/O: 25042.48 MB/s
+   goland -> 10.68 of CPU and 7.73 of Memory
+   chrome -> 6.45 of CPU and 0.52 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.12 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:07:12+05:00 - CPU: 3.18%, Memory: 13.15%, Disk I/O: 25049.76 MB/s
+   chrome -> 109.50 of CPU and 0.95 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 109.50
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.12 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:07:23+05:00 - CPU: 2.00%, Memory: 15.46%, Disk I/O: 25075.74 MB/s
+   chrome -> 27.53 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.12 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:07:33+05:00 - CPU: 3.02%, Memory: 18.04%, Disk I/O: 25117.93 MB/s
+   chrome -> 16.22 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.21 of CPU and 0.02 of Memory
+   gnome-shell -> 2.12 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:07:43+05:00 - CPU: 3.33%, Memory: 16.15%, Disk I/O: 25124.36 MB/s
+   chrome -> 74.94 of CPU and 0.54 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 74.94
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.11 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:07:54+05:00 - CPU: 3.49%, Memory: 12.72%, Disk I/O: 25174.79 MB/s
+   chrome -> 34.43 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.11 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:08:04+05:00 - CPU: 2.84%, Memory: 16.16%, Disk I/O: 25179.81 MB/s
+   chrome -> 19.15 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.11 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:08:14+05:00 - CPU: 3.58%, Memory: 16.47%, Disk I/O: 25180.65 MB/s
+   chrome -> 14.32 of CPU and 0.51 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.11 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:08:24+05:00 - CPU: 3.84%, Memory: 20.86%, Disk I/O: 25210.13 MB/s
+   chrome -> 42.75 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 42.75
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.11 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:08:36+05:00 - CPU: 1.89%, Memory: 20.05%, Disk I/O: 25235.84 MB/s
+   chrome -> 20.20 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.66 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.11 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:08:46+05:00 - CPU: 3.01%, Memory: 11.83%, Disk I/O: 25242.55 MB/s
+   chrome -> 14.27 of CPU and 0.51 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.11 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:08:56+05:00 - CPU: 1.96%, Memory: 19.81%, Disk I/O: 25244.21 MB/s
+   chrome -> 11.24 of CPU and 0.51 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.11 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:09:06+05:00 - CPU: 2.30%, Memory: 20.64%, Disk I/O: 25248.73 MB/s
+   goland -> 10.68 of CPU and 7.73 of Memory
+   chrome -> 9.03 of CPU and 0.51 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.10 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:09:16+05:00 - CPU: 5.44%, Memory: 14.34%, Disk I/O: 25261.76 MB/s
+   chrome -> 52.00 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 52.00
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.10 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:09:27+05:00 - CPU: 0.84%, Memory: 15.07%, Disk I/O: 25296.15 MB/s
+   chrome -> 21.37 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.10 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:09:37+05:00 - CPU: 2.85%, Memory: 15.63%, Disk I/O: 25300.46 MB/s
+   chrome -> 13.82 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.10 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:09:47+05:00 - CPU: 6.27%, Memory: 17.74%, Disk I/O: 25309.18 MB/s
+   chrome -> 76.73 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 76.73
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.10 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:09:58+05:00 - CPU: 1.89%, Memory: 16.40%, Disk I/O: 25353.09 MB/s
+   chrome -> 26.21 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.10 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:10:08+05:00 - CPU: 1.65%, Memory: 15.18%, Disk I/O: 25357.26 MB/s
+   chrome -> 16.32 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.67 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.10 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:10:18+05:00 - CPU: 5.06%, Memory: 16.21%, Disk I/O: 25364.66 MB/s
+   chrome -> 106.49 of CPU and 0.90 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 106.49
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.68 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.10 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:10:29+05:00 - CPU: 4.08%, Memory: 19.37%, Disk I/O: 25407.77 MB/s
+   chrome -> 29.04 of CPU and 0.56 of Memory
+   goland -> 10.68 of CPU and 7.73 of Memory
+   Xorg -> 2.68 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:10:39+05:00 - CPU: 0.87%, Memory: 15.38%, Disk I/O: 25413.70 MB/s
+   chrome -> 16.80 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.68 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:10:49+05:00 - CPU: 3.10%, Memory: 16.41%, Disk I/O: 25419.72 MB/s
+   chrome -> 12.88 of CPU and 0.51 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.68 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:11:00+05:00 - CPU: 5.07%, Memory: 16.41%, Disk I/O: 25422.23 MB/s
+   chrome -> 136.37 of CPU and 0.53 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 136.37
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.69 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:11:11+05:00 - CPU: 2.51%, Memory: 19.40%, Disk I/O: 25468.01 MB/s
+   chrome -> 31.98 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.69 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:11:21+05:00 - CPU: 2.01%, Memory: 20.48%, Disk I/O: 25474.02 MB/s
+   chrome -> 18.22 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.69 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:11:31+05:00 - CPU: 3.54%, Memory: 12.27%, Disk I/O: 25475.42 MB/s
+   chrome -> 28.08 of CPU and 0.25 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.70 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:11:41+05:00 - CPU: 3.67%, Memory: 13.66%, Disk I/O: 25496.57 MB/s
+   chrome -> 37.43 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.70 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:11:51+05:00 - CPU: 1.85%, Memory: 13.62%, Disk I/O: 25529.19 MB/s
+   chrome -> 19.31 of CPU and 0.56 of Memory
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.70 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.09 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:12:01+05:00 - CPU: 2.96%, Memory: 16.50%, Disk I/O: 25533.78 MB/s
+   chrome -> 13.58 of CPU and 0.51 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.70 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.08 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:12:11+05:00 - CPU: 0.89%, Memory: 21.92%, Disk I/O: 25534.59 MB/s
+   goland -> 10.66 of CPU and 7.73 of Memory
+   chrome -> 10.63 of CPU and 0.51 of Memory
+   Xorg -> 2.70 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.08 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:12:22+05:00 - CPU: 2.90%, Memory: 18.82%, Disk I/O: 25541.21 MB/s
+   goland -> 10.66 of CPU and 7.73 of Memory
+   chrome -> 8.53 of CPU and 0.51 of Memory
+   Xorg -> 2.70 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.08 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:12:32+05:00 - CPU: 4.13%, Memory: 16.78%, Disk I/O: 25546.21 MB/s
+   goland -> 10.67 of CPU and 7.73 of Memory
+   chrome -> 7.12 of CPU and 0.51 of Memory
+   Xorg -> 2.71 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.08 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:12:42+05:00 - CPU: 0.82%, Memory: 15.50%, Disk I/O: 25548.59 MB/s
+   goland -> 10.67 of CPU and 7.73 of Memory
+   chrome -> 6.11 of CPU and 0.51 of Memory
+   Xorg -> 2.70 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.08 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:12:52+05:00 - CPU: 2.82%, Memory: 13.21%, Disk I/O: 25553.95 MB/s
+   goland -> 10.67 of CPU and 7.73 of Memory
+   chrome -> 5.35 of CPU and 0.51 of Memory
+   Xorg -> 2.71 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.08 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:13:02+05:00 - CPU: 3.97%, Memory: 16.98%, Disk I/O: 25561.62 MB/s
+   chrome -> 127.53 of CPU and 0.59 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 127.53
+   goland -> 10.67 of CPU and 7.73 of Memory
+   Xorg -> 2.71 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.08 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:13:13+05:00 - CPU: 3.25%, Memory: 16.79%, Disk I/O: 25604.30 MB/s
+   chrome -> 33.19 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.72 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.08 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:13:23+05:00 - CPU: 1.88%, Memory: 15.53%, Disk I/O: 25614.19 MB/s
+   chrome -> 18.31 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.72 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.07 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:13:33+05:00 - CPU: 3.07%, Memory: 12.38%, Disk I/O: 25621.67 MB/s
+   chrome -> 13.69 of CPU and 0.51 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.72 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.07 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:13:43+05:00 - CPU: 3.61%, Memory: 12.11%, Disk I/O: 25639.74 MB/s
+   chrome -> 42.24 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 42.24
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.72 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.07 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:13:54+05:00 - CPU: 2.59%, Memory: 18.75%, Disk I/O: 25672.03 MB/s
+   chrome -> 19.78 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.72 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.07 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:14:04+05:00 - CPU: 3.11%, Memory: 17.68%, Disk I/O: 25679.12 MB/s
+   chrome -> 13.88 of CPU and 0.51 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.73 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.07 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:14:14+05:00 - CPU: 4.67%, Memory: 18.57%, Disk I/O: 25688.95 MB/s
+   chrome -> 50.77 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 50.77
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.72 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.07 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:14:26+05:00 - CPU: 1.76%, Memory: 11.41%, Disk I/O: 25709.37 MB/s
+   chrome -> 21.45 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.73 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.07 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:14:36+05:00 - CPU: 3.45%, Memory: 21.12%, Disk I/O: 25738.73 MB/s
+   chrome -> 14.05 of CPU and 0.56 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.73 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.07 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:14:46+05:00 - CPU: 3.05%, Memory: 18.25%, Disk I/O: 25741.83 MB/s
+   chrome -> 11.31 of CPU and 0.51 of Memory
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.22 of CPU and 0.02 of Memory
+   gnome-shell -> 2.06 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:14:56+05:00 - CPU: 1.18%, Memory: 12.91%, Disk I/O: 25746.62 MB/s
+   goland -> 10.66 of CPU and 7.73 of Memory
+   chrome -> 9.00 of CPU and 0.51 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   gnome-shell -> 2.06 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:15:06+05:00 - CPU: 2.78%, Memory: 12.69%, Disk I/O: 25753.92 MB/s
+   goland -> 10.65 of CPU and 7.73 of Memory
+   chrome -> 7.48 of CPU and 0.51 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   gnome-shell -> 2.06 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:15:16+05:00 - CPU: 4.65%, Memory: 13.19%, Disk I/O: 25769.86 MB/s
+   chrome -> 51.52 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 51.52
+   goland -> 10.66 of CPU and 7.73 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   gnome-shell -> 2.06 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:15:27+05:00 - CPU: 0.85%, Memory: 12.91%, Disk I/O: 25803.89 MB/s
+   chrome -> 21.19 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   gnome-shell -> 2.06 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:15:37+05:00 - CPU: 2.78%, Memory: 19.61%, Disk I/O: 25810.77 MB/s
+   chrome -> 13.79 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   gnome-shell -> 2.06 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:15:47+05:00 - CPU: 5.51%, Memory: 20.50%, Disk I/O: 25816.62 MB/s
+   chrome -> 69.20 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 69.20
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   gnome-shell -> 2.06 of CPU and 1.18 of Memory
+Metrics at 2024-09-10T20:15:58+05:00 - CPU: 0.94%, Memory: 11.83%, Disk I/O: 25860.13 MB/s
+   chrome -> 24.48 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.06 of CPU and 1.15 of Memory
+Metrics at 2024-09-10T20:16:09+05:00 - CPU: 2.75%, Memory: 14.22%, Disk I/O: 25864.16 MB/s
+   chrome -> 15.38 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.74 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.06 of CPU and 1.15 of Memory
+Metrics at 2024-09-10T20:16:19+05:00 - CPU: 5.77%, Memory: 16.24%, Disk I/O: 25877.52 MB/s
+   chrome -> 89.98 of CPU and 0.57 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 89.98
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.75 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.07 of CPU and 1.15 of Memory
+Metrics at 2024-09-10T20:16:30+05:00 - CPU: 2.64%, Memory: 18.78%, Disk I/O: 25921.00 MB/s
+   chrome -> 25.21 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.75 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.07 of CPU and 1.15 of Memory
+Metrics at 2024-09-10T20:16:40+05:00 - CPU: 0.85%, Memory: 17.54%, Disk I/O: 25927.57 MB/s
+   chrome -> 15.20 of CPU and 0.56 of Memory
+   goland -> 10.64 of CPU and 7.73 of Memory
+   Xorg -> 2.75 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.07 of CPU and 1.16 of Memory
+Metrics at 2024-09-10T20:16:50+05:00 - CPU: 3.76%, Memory: 14.48%, Disk I/O: 25936.74 MB/s
+   chrome -> 11.84 of CPU and 0.51 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.75 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.07 of CPU and 1.16 of Memory
+Metrics at 2024-09-10T20:17:00+05:00 - CPU: 4.92%, Memory: 16.01%, Disk I/O: 25939.80 MB/s
+   chrome -> 116.24 of CPU and 0.51 of Memory
+ALERT: CPU Usage of the program chrome is exceeded threshold with value: 116.24
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.75 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.08 of CPU and 1.16 of Memory
+Metrics at 2024-09-10T20:17:11+05:00 - CPU: 1.64%, Memory: 13.76%, Disk I/O: 25988.26 MB/s
+   chrome -> 31.20 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.75 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.08 of CPU and 1.16 of Memory
+Metrics at 2024-09-10T20:17:21+05:00 - CPU: 3.21%, Memory: 22.01%, Disk I/O: 25994.67 MB/s
+   chrome -> 17.98 of CPU and 0.56 of Memory
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.75 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.08 of CPU and 1.16 of Memory
+Metrics at 2024-09-10T20:17:31+05:00 - CPU: 3.44%, Memory: 20.63%, Disk I/O: 25996.02 MB/s
+   goland -> 10.65 of CPU and 7.73 of Memory
+   Xorg -> 2.76 of CPU and 0.52 of Memory
+   htop -> 2.23 of CPU and 0.02 of Memory
+   language_server_linux_x64 -> 2.09 of CPU and 1.16 of Memory
+   gnome-shell -> 2.04 of CPU and 1.18 of Memory
+Metrics at 2024-09-13T15:55:59+05:00 - CPU: 0.00%, Memory: 11.04%, Disk I/O: 9181.59 MB/s
+   goland -> 186.70 of CPU and 4.80 of Memory
+ALERT: CPU Usage of the program goland is exceeded threshold with value: 186.70
+   language_server_linux_x64 -> 27.12 of CPU and 0.95 of Memory
+   chrome -> 22.28 of CPU and 0.55 of Memory
+   go -> 21.34 of CPU and 0.06 of Memory
+   main -> 12.57 of CPU and 0.03 of Memory
+Metrics at 2024-09-13T15:56:10+05:00 - CPU: 2.01%, Memory: 16.00%, Disk I/O: 9206.11 MB/s
+   goland -> 146.51 of CPU and 4.81 of Memory
+ALERT: CPU Usage of the program goland is exceeded threshold with value: 146.51
+   language_server_linux_x64 -> 19.64 of CPU and 0.95 of Memory
+   chrome -> 13.60 of CPU and 0.55 of Memory
+   chrome -> 12.19 of CPU and 0.74 of Memory
+   chrome -> 3.54 of CPU and 0.83 of Memory

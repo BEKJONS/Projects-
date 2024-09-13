@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CLI-in-Golang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MiniTwitterForUdevs/api-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MiniTwitterForUdevs/auth-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MiniTwitterForUdevs/auth-service/protocol-buffers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MiniTwitterForUdevs/twitt-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MiniTwitterForUdevs/twitt-service/protocol-buffers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Restaurant/API-Endpoints" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Restaurant/Auth-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Restaurant/Auth-Service/grpc-proto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Restaurant/Reservation-Service" vcs="Git" />
+  </component>
+</project>
